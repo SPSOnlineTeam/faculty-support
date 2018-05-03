@@ -22,8 +22,6 @@ As one professor summed up the idea, “prove you’re not a robot!”
 
 3. increases student engagement, which leads to both learning and satisfaction
 
-### [https://www.youtube.com/watch?v=RVHsl6zBdzg](https://www.youtube.com/watch?v=RVHsl6zBdzg)
-
 ### How do I do it? 
 
 Many courses have a facilitation plan that faculty develop together with a School of Professional Studies instructional designer. Even when no formal plan is in place, the kinds of elements in such a plan boil down to a few simple ideas:

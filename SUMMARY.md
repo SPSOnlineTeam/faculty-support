@@ -6,7 +6,7 @@
   * Making Assignments
   * Communications
   * Posting Files or Photos
-  * Discussions
+  * [Discussions](working-in-canvas/discussions.md)
   * Getting Help
   * [Grading in Canvas](working-in-canvas/grading-in-canvas.md)
 * Online Classroom Design
