@@ -20,8 +20,8 @@ Instructors and TAs create a “facilitation plan”\[link\] for a course before
 
 * Canvas discussions host two main activities: Posting of initial reply to the prompt and follow-up replies to these posts.
 * Box frames visually define two major elements of a Discussion page:
-  * Instructions: Background and prompt, initial post button, view and search tools
-  * Posts: Initial replies to the prompt and responses to these replies.
+  * **Instructions**: Background and prompt, initial post button, view and search tools
+  * **Posts**: Initial replies to the prompt and responses to these replies.
     * The initial post can be thought of as a top-level reply
     * Replies \(threads\)
       * Responses to initial posts are secondary replies, which start a thread. This is where students engage each other.
