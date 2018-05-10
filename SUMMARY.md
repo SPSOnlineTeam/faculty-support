@@ -5,7 +5,7 @@
   * Finding Your Course
   * Making Assignments
   * Communications
-  * Posting Files or Photos
+  * [Sharing Files, Photos, or Videos](working-in-canvas/posting-files-or-photos.md)
   * [Discussions](working-in-canvas/discussions.md)
   * Getting Help
   * [Grading in Canvas](working-in-canvas/grading-in-canvas.md)
