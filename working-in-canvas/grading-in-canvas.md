@@ -1,3 +1,7 @@
+---
+description: Reviewing Student Work and Grading in Canvas
+---
+
 # Grading in Canvas
 
 ## **Finding and Viewing Students’ Work**
