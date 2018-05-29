@@ -32,7 +32,7 @@ description: Reviewing Student Work and Grading in Canvas
 
 1. Assignment Comments
 
-   a. Generates** **notifications to students
+   a. Generates ****notifications to students
 
    b. Notice the audio/video file upload options  
    c. Students can reply to you! \(where do faculty see these?\)  

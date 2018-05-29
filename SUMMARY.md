@@ -18,7 +18,7 @@
   * Be a Person
   * [Teaching Presence](untitled/establishing-presence.md)
   * Facilitation
-  * Your Online "Voice"
+  * [Your Online "Voice"](untitled/your-online-voice.md)
   * Using Announcements
   * Your Responsibilities
 
