@@ -1,6 +1,6 @@
 # Uploading Files and Photos
 
-Canvas allows your to share a number of file types, including .pdf, .xls, .doc, images \(.png, .jpg\), videos, or even links to websites. Authentic materials enhance your content and help your students learn; the content comes alive when you show how it’s applied in the “real world”. 
+Canvas allows your to share a number of file types, including .pdf, .xls, .doc, images \(.png, .jpg\), videos, or even links to websites. Authentic materials enhance your content and help your students learn; the content comes alive when you show how it’s applied in the “real world”.
 
 The following scenarios are common occurrences while designing or delivering an online course.
 
@@ -9,12 +9,12 @@ TIP: The steps outlined are tailored to each scenario, however the processes for
 {% endhint %}
 
 {% tabs %}
-{% tab title="Link Video in Discussions" %}
-#### Adding a Video Link to Your Discussion Reply
+{% tab title="Scenario 1: Video Link" %}
+### Adding a Video Link to Your Discussion Reply
 
 It’s 5pm on a Tuesday and you are sitting at your desk with a cup of tea to review what’s happening in the course’s online discussion. Students have responded critically to the discussion prompt but you want to share a different perspective from a video you came across on YouTube. You hope the video will shed light on diverse perspectives. This video will open up a new conversation path. You open a new tab to search for the YouTube video link.
 
-#### How do you link to a YouTube video in a discussion reply?
+### How do you link to a YouTube video in a discussion reply?
 
 1. Copy and paste the Share YouTube link. \(You will need it for \#3\)
 2. From the discussion, click reply to the initial post or to a thread of posts. This will open the discussion reply editor.
@@ -28,12 +28,12 @@ It’s 5pm on a Tuesday and you are sitting at your desk with a cup of tea to re
 ![](https://lh5.googleusercontent.com/wzrcbTwpqbuOjGdMsldc_XEG45l15huSkvjvim1YDNJWNx-I5bM3jouMjE0zN_kTyxojghKqhZo3IiU8fGWsJRqFqb59keiMsN0XWVYuIerAvw7hLNecoVSM0oYOL-Ew4k6JZ5nt)
 {% endtab %}
 
-{% tab title="Share Files in Announcements" %}
-#### **Share a File in an Announcement**
+{% tab title="Scenario 2: File in an Announcement" %}
+### Share a File in an Announcement 
 
 As your grading an assignment, you notice some students struggling with the same problem. Instead of uploading your excel sheet with the correct formulas and explanation individually you’d like to post the file in an announcement and address the whole class.
 
-#### How do you link to a file in your announcement text?
+### How do you link to a file in your announcement text?
 
 1. Upload the excel sheet \(or any other file type\) to the appropriate folder in the Files from the course navigation. We recommend an organized, user-friendly Files area with named folders.
 
@@ -48,18 +48,14 @@ As your grading an assignment, you notice some students struggling with the same
 5. Click Save on your announcement to post in the course.
 
 Note: You may also add a file as an attachment to an announcement but it is not as visible and connected to the announcement text.
-
-
-
-  
 {% endtab %}
 
-{% tab title="Add Images to Assignments" %}
-#### Add an Image to an Assignment
+{% tab title="Scenario 3: Add Image to Assignment" %}
+### Add an Image to an Assignment
 
 The assignment students are being asked to do is connected to the information on the previous page. You have the perfect image file to bring this information to life and show what you are describing in text.
 
-#### How do you insert an image on an assignment page?
+### How do you insert an image on an assignment page?
 
 1. Make sure your image file is saved to your computer.
 2. Like with the excel file, from the course navigation menu, click on Files to upload your image to the appropriate folder.
@@ -74,7 +70,11 @@ The assignment students are being asked to do is connected to the information on
 
    ![](https://lh3.googleusercontent.com/eA43hoTDRE3ac6l5a-TmfdbNr7I8ay0uDjoFPPgmOEE7o63D4EWbYcyIY_tLhvCWJt_Opq2SCHfO4-op4CqrC_leU_RmFWqXcBtAVlYyzk8MW7WzWpz6endicB5YLwgL3KBwlXAK)
 
-5. Once your image is where and how you want it to be, click Save on the assignment page. 
+5. Once your image is where and how you want it to be, click Save on the assignment page.
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
