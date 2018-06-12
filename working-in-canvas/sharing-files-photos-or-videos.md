@@ -1,6 +1,6 @@
 # Sharing Files, Photos, or Videos
 
-Naturally, virtual classrooms make it simple to share digital artifacts or examples; such as, .pdf, .xls, .doc, images \(.png, .jpg\), videos, or even links to websites. Authentic materials enhance your content and help your students learn; the content comes alive when you show how it’s applied in the “real world”. The following scenarios are common occurrences while designing or delivering an online course.
+Canvas allows your to share a number of file types, including .pdf, .xls, .doc, images \(.png, .jpg\), videos, or even links to websites. Authentic materials enhance your content and help your students learn; the content comes alive when you show how it’s applied in the “real world”. The following scenarios are common occurrences while designing or delivering an online course.
 
 {% hint style="info" %}
 TIP: The steps outlined are tailored to each scenario, however the processes for linking to websites, uploading, and/or sharing images, videos, or text-based files are same whether in Canvas discussions, wiki pages, assignments, or announcements.
