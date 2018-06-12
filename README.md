@@ -8,5 +8,7 @@
 
 
 
-![](.gitbook/assets/lon5772-teaser-story-big.jpg)
+
+
+
 
