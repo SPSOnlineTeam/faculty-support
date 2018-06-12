@@ -1,4 +1,4 @@
-# Uploading Files
+# Uploading Files and Photos
 
 Canvas allows your to share a number of file types, including .pdf, .xls, .doc, images \(.png, .jpg\), videos, or even links to websites. Authentic materials enhance your content and help your students learn; the content comes alive when you show how it’s applied in the “real world”. 
 
