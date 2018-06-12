@@ -6,16 +6,16 @@ description: Reviewing Student Work and Grading in Canvas
 
 ## **Finding and Viewing Students’ Work**
 
-### Canvas has three views of grades: 
+### Canvas has three views of grades:
 
 1. 'Quick Grading' on the Grades tab
 
    a. What the colors and common symbols mean
 
-   b. How to change column view   
+   b. How to change column view  
    c. How to mute and unmute assignment columns
 
-2. 'Assignments' view 
+2. 'Assignments' view
 3. SpeedGrader!
 
 {% hint style="info" %}
@@ -28,20 +28,20 @@ description: Reviewing Student Work and Grading in Canvas
 2. View may vary based on whether you’re looking at a discussion, a document or a text submission.
 3. Muting assignments will allow you to complete your grading without students being able to see them until you’re done. Unmute to share them with all students simultaneously.
 
-#### Giving Students Feedback: 
+#### Giving Students Feedback:
 
 1. Assignment Comments
 
-   a. Generates ****notifications to students
+   a. Generates _\*\*_notifications to students
 
    b. Notice the audio/video file upload options  
-   c. Students can reply to you! \(where do faculty see these?\)  
+   c. Students can reply to you! \(where do faculty see these?\)
 
 2. Filling in a grade
 
-   a. Type in a grade  \(letter, number, complete/incomplete is set in the Assignment\)
+   a. Type in a grade \(letter, number, complete/incomplete is set in the Assignment\)
 
-   b. Comment and Grade. \(You can accidentally comment without grading!\)  
+   b. Comment and Grade. \(You can accidentally comment without grading!\)
 
 3. Annotating a document directly
 

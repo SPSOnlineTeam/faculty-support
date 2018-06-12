@@ -1,24 +1,24 @@
 # Table of contents
 
-* Brown SPS Faculty Guide
-* Working in Canvas
-  * Finding Your Course
-  * Making Assignments
-  * Communications
-  * [Sharing Files, Photos, or Videos](working-in-canvas/posting-files-or-photos.md)
+* [Introduction](README.md)
+* [Working in Canvas](working-in-canvas/README.md)
+  * [Finding Your Course](working-in-canvas/finding-your-course.md)
+  * [Making Assignments](working-in-canvas/making-assignments.md)
+  * [Communications](working-in-canvas/communications.md)
+  * [Sharing Files, Photos, or Videos](working-in-canvas/sharing-files-photos-or-videos.md)
   * [Discussions](working-in-canvas/discussions.md)
-  * Getting Help
+  * [Getting Help](working-in-canvas/getting-help.md)
   * [Grading in Canvas](working-in-canvas/grading-in-canvas.md)
-* Online Classroom Design
-  * Design Principles
-  * Pedagogy
-  * Sense of Community
-  * UDL \(Universal Design\)
-* Teaching Online
-  * Be a Person
-  * [Teaching Presence](untitled/establishing-presence.md)
-  * Facilitation
-  * [Your Online "Voice"](untitled/your-online-voice.md)
-  * Using Announcements
-  * Your Responsibilities
+* [Online Classroom Design](online-classroom-design/README.md)
+  * [Design Principles](online-classroom-design/design-principles.md)
+  * [Pedagogy](online-classroom-design/pedagogy.md)
+  * [Sense of Community](online-classroom-design/sense-of-community.md)
+  * [UDL \(Universal Design\)](online-classroom-design/udl-universal-design.md)
+* [Teaching Online](teaching-online/README.md)
+  * [Be a Person](teaching-online/be-a-person.md)
+  * [Teaching Presence](teaching-online/teaching-presence.md)
+  * [Facilitation](teaching-online/facilitation.md)
+  * [Your Online "Voice"](teaching-online/your-online-voice.md)
+  * [Using Announcements](teaching-online/using-announcements.md)
+  * [Your Responsibilities](teaching-online/your-responsibilities.md)
 

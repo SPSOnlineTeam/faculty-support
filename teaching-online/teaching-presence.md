@@ -1,7 +1,3 @@
----
-description: Establishing Your Teaching Presence in Your Online Course
----
-
 # Teaching Presence
 
 ### What does teaching presence mean in an online course?
