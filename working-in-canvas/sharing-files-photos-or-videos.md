@@ -27,7 +27,7 @@ It’s 5pm on a Tuesday and you are sitting at your desk with a cup of tea to re
 {% endtab %}
 
 {% tab title="Share Files in Announcements" %}
-**Share a File in an Announcement**
+#### **Share a File in an Announcement**
 
 As your grading an assignment, you notice some students struggling with the same problem. Instead of uploading your excel sheet with the correct formulas and explanation individually you’d like to post the file in an announcement and address the whole class.
 
