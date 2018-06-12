@@ -3,7 +3,7 @@
 * [Let's dive in.](README.md)
 * [Working in Canvas](working-in-canvas/README.md)
   * [Finding Your Course](working-in-canvas/finding-your-course.md)
-  * [Making and Grading Assignments](working-in-canvas/making-assignments.md)
+  * [Reviewing Student Work and Grading](working-in-canvas/making-assignments.md)
   * [Communications](working-in-canvas/communications.md)
   * [Sharing Files, Photos, or Videos](working-in-canvas/sharing-files-photos-or-videos.md)
   * [Discussions](working-in-canvas/discussions.md)
