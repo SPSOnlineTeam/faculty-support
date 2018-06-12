@@ -10,13 +10,13 @@ As one professor summed up the idea, “prove you’re not a robot!”
 
 ### Why should I care? 
 
-1. Your course isn’t just your content, it’s you creating an environment that fosters learning \(just like you do in the classroom\) 
+1. Your course isn’t just your content, it’s you creating an environment that fosters learning \(just like you do in the classroom\). 
 2. A little thought about presence makes the most efficient use of your teaching time, while increasing impact on students.  
 
    a. Also can reduce student questions by providing context, setting the stage, for lessons  
    b. With some planning, possible to do less while seeming more present, make more impact,
 
-3. increases student engagement, which leads to both learning and satisfaction
+3. Your presence increases student engagement, which leads to both learning and satisfaction. 
 
 ### How do I do it? 
 
