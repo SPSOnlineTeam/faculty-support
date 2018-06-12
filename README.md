@@ -1,9 +1,3 @@
----
-description: >-
-  This is a guide to help you succeed as an online professor at Brown. Let's
-  dive in!
----
-
 # Overview
 
 {% page-ref page="working-in-canvas/" %}
