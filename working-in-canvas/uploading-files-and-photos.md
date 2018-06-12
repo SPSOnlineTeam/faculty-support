@@ -5,7 +5,7 @@ Canvas allows your to share a number of file types, including .pdf, .xls, .doc, 
 The following scenarios are common occurrences while designing or delivering an online course.
 
 {% hint style="info" %}
-TIP: The steps outlined are tailored to each scenario, however the processes for linking to websites, uploading, and/or sharing images, videos, or text-based files are same whether in Canvas discussions, wiki pages, assignments, or announcements.
+NOTE: The steps outlined are tailored to each scenario, however the processes for linking to websites, uploading, and/or sharing images, videos, or text-based files are same whether in Canvas discussions, wiki pages, assignments, or announcements.
 {% endhint %}
 
 {% tabs %}
