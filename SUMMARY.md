@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Let's dive in.](README.md)
 * [Working in Canvas](working-in-canvas/README.md)
   * [Finding Your Course](working-in-canvas/finding-your-course.md)
   * [Making Assignments](working-in-canvas/making-assignments.md)

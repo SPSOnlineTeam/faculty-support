@@ -1,4 +1,4 @@
-# Overview
+# Let's dive in.
 
 {% page-ref page="working-in-canvas/" %}
 
