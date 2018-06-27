@@ -2,12 +2,6 @@
 
 Giving feedback to students can be done in three ways. 
 
-They are:
-
-1. Feedback from assignment comments 
-2. Filling in a grade through the gradebook 
-3. Annotating a document directly 
-
 ### 1. Feedback from Assignment Comments 
 
 To provide feedback through assignment comments, simply put your comments in the assignment comments field in SpeedGrader. 
