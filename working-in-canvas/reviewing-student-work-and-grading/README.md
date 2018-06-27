@@ -34,7 +34,20 @@ You will be able to hide student names, arrange columns by due date, points, ass
 TIP: Instructors find the “due date view” most helpful. The arrange the grade book items by due date, click the “Arrange column by due date” option.
 {% endhint %}
 
+### Finding a Resubmission 
+
+Please also keep in mind that you can find resubmissions \(which appear shaded in yellow in the gradebook\) by selecting the most recent submission \(unless you or the student has specified some other submission\).  
   
+****This is how it appears directly from the Gradebook:  
+  
+****
+
+![](https://lh4.googleusercontent.com/nqfU7LZ7zGSgo0KIminozfaD3MyS4SYmRJqn-x4WQ6MBWwI4qWE10ZsajHWzhi2kAQW2D7qWrXGcOBU0vrlmBFZ19XsDwxza_u-kV0llj7mxq1c5CWTno8x27EQW4XiHGvYnsUBB)
+
+**And this is how it appears in SpeedGrader:**  
+
+
+![](https://lh3.googleusercontent.com/ASFHF-OG2YYHN8N7xdYHRkcPk2mISy7M3R8V9q1csdHN3vlPUpykxewK8Nr6gXQkVVkqBdNpApzQZHog8i9GKPbs1GIQpLACETiTFflC2CI0_DX7Z0we8FDCWn5N-StxX7sZz1MS)
 {% endtab %}
 
 {% tab title="2. \"Assignments\" view" %}
