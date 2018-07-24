@@ -1,10 +1,3 @@
----
-description: >-
-  Grading is an important component of any course. But in an online course, it
-  is one of the few ways you can provide essential feedback and guidance to
-  students. Canvas offers more than one way of prov
----
-
 # Reviewing Student Work and Grading
 
 ### Finding and Viewing Student Work 

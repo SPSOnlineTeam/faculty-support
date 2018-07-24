@@ -1,6 +1,6 @@
 # Discussions
 
-### What are Canvas Discussions
+### What are Canvas Discussions?
 
 Online discussions provide an opportunity for thoughtful contributions and engage all students in the class not just a confident and uninhibited few, as might be the case in a face-to-face class. Discussion pages present a prompt for students to respond to, with background context as needed \(text, audio, video, images, links\). Students can respond to the prompt and to each others’ responses.
 
