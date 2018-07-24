@@ -2,8 +2,6 @@
 
 Giving feedback to students can be done in three ways.
 
-They are:
-
 1. Feedback from assignment comments 
 2. Filling in a grade through the gradebook 
 3. Annotating a document directly 
