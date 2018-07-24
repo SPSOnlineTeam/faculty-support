@@ -5,7 +5,7 @@
   * [Finding Your Course](working-in-canvas/finding-your-course.md)
   * [Reviewing Student Work and Grading](working-in-canvas/reviewing-student-work-and-grading/README.md)
     * [Giving Students Feedback](working-in-canvas/reviewing-student-work-and-grading/giving-students-feedback.md)
-  * [Communications](working-in-canvas/communications.md)
+  * [Communicating with Students](working-in-canvas/communications.md)
   * [Uploading Files and Photos](working-in-canvas/uploading-files-and-photos.md)
   * [Discussions](working-in-canvas/discussions.md)
   * [Getting Help](working-in-canvas/getting-help.md)
