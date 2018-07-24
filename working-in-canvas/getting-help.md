@@ -1,13 +1,6 @@
----
-description: >-
-  Here is how get your course questions answered in the most efficient way.
-  Asking the right person for help will get you the support you need, when you
-  need it.
----
-
 # Getting Help
 
-### Help with Canvas
+### Get Help with Canvas
 
 If you or a student has an issue with Canvas, the best way to get help is by clicking the **Help** icon in the Canvas left-hand menu.
 
@@ -20,11 +13,11 @@ Select the option to **contact Canvas directly by phone \(support hotline\)** or
 
 ![](https://lh4.googleusercontent.com/mrMdNENT4p6jlVZinhaVNuo_stSWUJO4TpcNv5KIVkDLIsOzc8hUbppF36B9059brPD8ZLO4JOFhd4Cj3l8OQ_piHmeaJNG8zLKa73XryYGku2SahQBjp2u3tX6AEAR7G2RN0Nk2)
 
-### Technical Help \(non-Canvas\)
+### Get Technical Help \(Not-Canvas\)
 
-Technical Help \(non-Canvas\) If you have trouble with software \(e.g. Zoom, Google Apps, Brown Blogs, your computer, etc.\), contact the [Brown IT Help Desk](https://it.brown.edu/get-help).
+If you have trouble with software \(e.g. Zoom, Google Apps, Brown Blogs, your computer, etc.\), contact the [Brown IT Help Desk](https://it.brown.edu/get-help).
 
-### Help with Course-Related Items
+### Get Help with Course-Related Items
 
 {% tabs %}
 {% tab title="Pre-College and Undergraduate" %}
