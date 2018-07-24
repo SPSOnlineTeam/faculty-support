@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Let's dive in.](README.md)
+* [Online Faculty Guide](README.md)
 * [Working in Canvas](working-in-canvas/README.md)
   * [Finding Your Course](working-in-canvas/finding-your-course.md)
   * [Reviewing Student Work and Grading](working-in-canvas/reviewing-student-work-and-grading/README.md)

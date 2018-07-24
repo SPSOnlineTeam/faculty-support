@@ -1,4 +1,8 @@
-# Let's dive in.
+---
+description: Let's dive in. Select an area to learn about below.
+---
+
+# Online Faculty Guide
 
 {% page-ref page="working-in-canvas/" %}
 
