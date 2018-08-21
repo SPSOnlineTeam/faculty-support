@@ -10,6 +10,7 @@
   * [Discussions](working-in-canvas/discussions.md)
   * [Getting Help](working-in-canvas/getting-help.md)
   * [Grading in Canvas](working-in-canvas/grading-in-canvas.md)
+  * [Recording & Uploading Media with Canvas Media Recorder](working-in-canvas/recording-and-uploading-media-with-canvas-media-recorder.md)
 * [Online Classroom Design](online-classroom-design/README.md)
   * [Design Principles](online-classroom-design/design-principles.md)
   * [Pedagogy](online-classroom-design/pedagogy.md)
