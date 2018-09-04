@@ -1,4 +1,4 @@
-# Uploading Files and Photos
+# Adding URLs, Files, and Photos
 
 You can share a number of file types, including .pdf, .xls, .doc, images \(.png, .jpg\), videos, and URL links on your Canvas course. Authentic materials enhance your content and help your students learn; the content comes alive when you show how it’s applied to the “real world”.
 
