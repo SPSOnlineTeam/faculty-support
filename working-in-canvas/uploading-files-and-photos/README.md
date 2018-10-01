@@ -51,36 +51,9 @@ While grading an assignment, you observe students struggling with the same probl
 
 5. Click Save on your announcement to post in the course.
 
-_**Note: You may also add a file as an attachment to an announcement but it is not as visible and connected to the announcement text.**_
-{% endtab %}
-
-{% tab title="Embed an Image" %}
-### Add an Image to an Assignment
-
-Your students are working on an assignment based on content studied over the course of two modules. To bring the information to life and show what you are describing in text, you want to add an image.
-
-### How do you embed an image on an assignment page?
-
-1. Make sure your image file is downloaded to your computer.
-2. Like with the excel file \(see Share a File tab\), from the course navigation menu, click on Files to upload your image.
-3. Edit the assignment page and place your cursor where you’d like to insert the image file.
-
-   ![](https://lh3.googleusercontent.com/6YhTvrXCbrb173OKM-v0_1UC8aCEvgkxahiQbYmLrShZ1T9puRmPLJ5MNYzgqSYlcENSJWscJYGd8XHWKiuIz_r7tLhWfgVaNgr-tOOXj0C2ciUzcy0O3FwQdPZjTUfKn01CAArT)
-
-4. Select the Images tab on the right to find and select the image file. Once you click the image, it will appear in the assignment content editor.
-
-   1. Resize the image if it is too big or too small. 
-      1. Click on the image to highlight it and then select the embed image icon from the rich content editor; the Insert/Edit Image box will pop up. Under Attributes, edit the dimensions to resize the image.
-   2. Add Alt text to make the image accessible to all students. 
-      1. Under Attributes, edit the Alt text. Alt text should be accurate and equivalent in presenting content and function of image, be succinct, not be redundant to other text information on the page, and not use phrases “image of” or “graphic of” to describe the image.
-
-   ![](https://lh3.googleusercontent.com/eA43hoTDRE3ac6l5a-TmfdbNr7I8ay0uDjoFPPgmOEE7o63D4EWbYcyIY_tLhvCWJt_Opq2SCHfO4-op4CqrC_leU_RmFWqXcBtAVlYyzk8MW7WzWpz6endicB5YLwgL3KBwlXAK)
-
-5. Once your image is where and how you want it to be, click Save on the assignment page.
+_**Note: You may also add a file as an attachment but it is less visible to the viewer because it appears at the end of the announcement.**_ 
 {% endtab %}
 {% endtabs %}
-
-
 
 
 
