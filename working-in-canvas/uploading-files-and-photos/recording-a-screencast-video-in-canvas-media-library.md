@@ -1,4 +1,4 @@
-# Recording a Screencast Video in Canvas Media Library
+# Record a Screencast
 
 A **screencast** is a digital recording of what a person does on their computer—the video version of a screenshot—which may also contain audio narration to accompany the video. 
 
