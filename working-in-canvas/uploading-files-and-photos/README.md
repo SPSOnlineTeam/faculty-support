@@ -39,16 +39,12 @@ While grading an assignment, you observe students struggling with the same probl
 
 ### How do you link to a file in your announcement text?
 
-1. Upload the excel sheet \(or any other file type\) to one of your folders in the Files area.   _**NOTE:  We recommend an organized, user-friendly Files area with named folders.**_
-
+1. Upload the excel sheet \(or any other file type\) to one of your folders in the Files area.   _**NOTE:  We recommend an organized, user-friendly Files area with named folders.**_![](https://lh4.googleusercontent.com/ou83T0OQatmdciZIjdxJnQ9naqbxm9iBkcsdm2t_0gb2kmWaQAQD32_654O1Sq8GoesZ80n0wkMs0-kv4sJARN2kdpdez0lzC5PQDC3ZuZblV-2BU3ua3oHreCznrDAaSuog9mUD)_\*\*\*\*_
 2. From the course navigation, click on Announcements and then click + Announcement to draft your message in the editor.
 3. Within your announcement, describe the file you are sharing with students so they know that is being shared. I.e.; _Please review the excel spreadsheet with the correct formulas to check your work._ This text will be linked to the file.
-
-![](https://lh5.googleusercontent.com/5VbO4_q7ziuYhEtLQrMVINbTI_UBLkgFRy1I47_j2ZtXP19uwgiDDsJpfKaWqvMRvQ9dNp7zZI6X9TgftbPrbJeunlsexqSBfZ2GoZ-TKvNucokCHn4R5yihyukRTOseIQIyijhb)
-
 4. Highlight the text to link, and then select the Files tab and click on excel file.
 
-![](https://lh4.googleusercontent.com/ou83T0OQatmdciZIjdxJnQ9naqbxm9iBkcsdm2t_0gb2kmWaQAQD32_654O1Sq8GoesZ80n0wkMs0-kv4sJARN2kdpdez0lzC5PQDC3ZuZblV-2BU3ua3oHreCznrDAaSuog9mUD)
+![](https://lh5.googleusercontent.com/5VbO4_q7ziuYhEtLQrMVINbTI_UBLkgFRy1I47_j2ZtXP19uwgiDDsJpfKaWqvMRvQ9dNp7zZI6X9TgftbPrbJeunlsexqSBfZ2GoZ-TKvNucokCHn4R5yihyukRTOseIQIyijhb)
 
 5. Click Save on your announcement to post in the course.
 
