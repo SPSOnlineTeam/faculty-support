@@ -54,7 +54,7 @@ _**Note: You may also add a file as an attachment to an announcement but it less
 {% tab title="Embed an Image" %}
 ### Add an Image to an Assignment
 
-Your students are working on an assignment based on content studied over the course of two modules. To bring the information to life and show what you are describing in text, you want to add an image.
+To show an authentic example of the information you are describing in text, you want to add an image.
 
 ### How do you embed an image on an assignment page?
 
