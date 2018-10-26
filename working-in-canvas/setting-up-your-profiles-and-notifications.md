@@ -17,6 +17,8 @@ By default, your Brown email address is your primary contact method in Canvas, b
   
 ****![](../.gitbook/assets/discussions_choose_image.png)
 
+### 
+
 ### What are Canvas notifications? 
 
 Tell Canvas how often you want to be notified of specific course activity. You also begin with one method of communication, usually your Brown email address. You can add your mobile phone number to get text messages.  
