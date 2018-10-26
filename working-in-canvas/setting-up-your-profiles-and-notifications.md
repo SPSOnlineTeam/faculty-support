@@ -8,13 +8,11 @@ By default, your Brown email address is your primary contact method in Canvas, b
 
 #### Updating your profile
 
-1. Click on Account in the left-hand sidebar.  ****![](https://lh5.googleusercontent.com/i1HGJtz79BiYwXc0tpChH4gH3MKpaswhbRg4CPBd5eJjfQH1nEljtnpdmWrZj2S4kDDZ0VUzVbRIqixPMMFNQ12a54AI5V6auvWion7AxOkgBC-NjjCkbiSQcTOadTUjCEscUTSw) 
-2. From the Settings sub-menu click on your image/placeholder to change.    
-  
-  
-   ****
+1. Click on Account in the left-hand sidebar.  ****![](../.gitbook/assets/discussions_account_menu.png) 
+2. From the **Settings** sub-menu click on your image/placeholder to change.    
 
-   ![](https://lh5.googleusercontent.com/keiMFKpVKrjWa-rRx7JpevhkqYP0IjINhS8xlUD2aYBI38fv3sCvek_4zxD9C4d6WyBEocF9irKBhboHI3Lf8IDpsZ1dX3PweSSPtKWWAAhyZqjopjKVkWyQvyRMRiTxyYAYDRLL)  
+
+   ![](../.gitbook/assets/discussions_settings_submenu%20%281%29.png)  
 
 3. Upload a picture for your profile or take one with your webcam. Use one that reflects who you actually are \(not a logo or avatar\).  ****![](https://lh6.googleusercontent.com/OIqkLggFvJkamc-2Fui_E2U3z_ohje9o9GH8s7leFQzicshjbau9SQgcWNGfgrYYLnrXQczXA9XrKtgZbuCWb55Cc9Dfv_lBB-p8KYdOi-AhAQg5NuzFYd_yNBA3Wpv109puxMdL)  ****
 
