@@ -27,9 +27,7 @@ Instructors and TAs create a “facilitation plan”\[link\] for a course before
       * Responses to initial posts are secondary replies, which start a thread. This is where students engage each other.
       * Teachers or TAs may post a comment on the direction of the conversation or reply to students, which everyone will see \(as opposed to assignment feedback, through Speedgrader, which only one student sees\).
 
-
-
-![](https://lh5.googleusercontent.com/n6ZHwK3vH5XUXjkpNRXEJuEgcr56T5isEf9hkthgswHKgbLWAWHTZomqfuX5yNdElqMWLcM8x80H1QPgp-oP6acMfU-rdOz_-mxDnDRi0YI2qtCzBuUBnxoXaXIbckugo2JgyNzF)
+![](../.gitbook/assets/discussions_prompt%20%281%29.png)
 
 
 
