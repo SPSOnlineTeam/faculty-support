@@ -13,6 +13,7 @@
   * [Discussions](working-in-canvas/discussions.md)
   * [Getting Help](working-in-canvas/getting-help.md)
   * [Grading in Canvas](working-in-canvas/grading-in-canvas.md)
+* [Working in Campus \(IE Brown EMBA\)](untitled.md)
 * [Online Classroom Design](online-classroom-design/README.md)
   * [Design Principles](online-classroom-design/design-principles.md)
   * [Pedagogy](online-classroom-design/pedagogy.md)
@@ -25,5 +26,4 @@
   * [Your Online "Voice"](teaching-online/your-online-voice.md)
   * [Using Announcements](teaching-online/using-announcements.md)
   * [Your Responsibilities](teaching-online/your-responsibilities.md)
-* [Working in Campus \(IE Brown EMBA\)](untitled.md)
 
