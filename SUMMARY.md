@@ -2,6 +2,7 @@
 
 * [Online Faculty Guide](README.md)
 * [Working in Canvas](working-in-canvas/README.md)
+  * [Setting Up Your Profiles and Notifications](working-in-canvas/setting-up-your-profiles-and-notifications.md)
   * [Finding Your Course](working-in-canvas/finding-your-course.md)
   * [Reviewing Student Work and Grading](working-in-canvas/reviewing-student-work-and-grading/README.md)
     * [Giving Students Feedback](working-in-canvas/reviewing-student-work-and-grading/giving-students-feedback.md)
