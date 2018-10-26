@@ -8,13 +8,14 @@ By default, your Brown email address is your primary contact method in Canvas, b
 
 #### Updating your profile
 
-1. Click on Account in the left-hand sidebar.  ****![](../.gitbook/assets/discussions_account_menu.png) 
-2. From the **Settings** sub-menu click on your image/placeholder to change.    
+1. Click on **Account** in the left-hand sidebar. ****![](../.gitbook/assets/discussions_account_menu.png) 
+2. From the **Settings** sub-menu click on your image/placeholder to change.  
 
+![](../.gitbook/assets/discussions_settings_submenu.png)
 
-   ![](../.gitbook/assets/discussions_settings_submenu%20%281%29.png)  
-
-3. Upload a picture for your profile or take one with your webcam. Use one that reflects who you actually are \(not a logo or avatar\).  ****![](https://lh6.googleusercontent.com/OIqkLggFvJkamc-2Fui_E2U3z_ohje9o9GH8s7leFQzicshjbau9SQgcWNGfgrYYLnrXQczXA9XrKtgZbuCWb55Cc9Dfv_lBB-p8KYdOi-AhAQg5NuzFYd_yNBA3Wpv109puxMdL)  ****
+    3. Upload a picture for your profile or take one with your webcam. Use one that reflects who you actually are \(not a logo or avatar\).  
+  
+****![](../.gitbook/assets/discussions_choose_image.png)
 
 ### What are Canvas notifications? 
 
@@ -27,7 +28,7 @@ Tell Canvas how often you want to be notified of specific course activity. You a
 
    [See this Canvas Guide for specific instructions on adding other contact methods.](https://guides.instructure.com/m/4152/l/719736-how-do-i-add-contact-methods-to-receive-canvas-notifications-as-an-instructor)
 
-![Notification Preferences view. Each column on the right represents a communication method \(email, phone\). Each activity has a notification frequency setting, from immediately to never. ](https://lh3.googleusercontent.com/VqJGI9F9Uon8LvD0sMXBLYg9MugTU-savNp250ZzWfFR3r8HjgQZcITROdrVCAY2y2M57G7KpQp-c2Jl34PKYro0iM3dNbik3MAEEs2KjaAZCQQMvGfGqd7gb2C8hvACIbOmfDAD)
+![](../.gitbook/assets/working_in_canvas_notifications.png)
 
 ###  
 
