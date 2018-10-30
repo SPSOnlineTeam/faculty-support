@@ -1,4 +1,4 @@
-# Adding Files and Links to Enhance Content
+# Enhance Content with Files or URLs
 
 You can share a number of file types, including .pdf, .xls, .doc, images \(.png, .jpg\), videos, and URL links in your course. Authentic materials enhance your content and help your students learn; the content comes alive when you show how it’s applied to the “real world”.
 
