@@ -1,4 +1,4 @@
-# Record & Upload Video or Audio
+# Record and Upload Media
 
 Use the Canvas Media Recorder to share video or audio comments with your students \(ideally under 6 minutes\), using the microphone and webcam on your computer.  
 
