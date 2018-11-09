@@ -1,4 +1,2 @@
 # Sense of Community
 
-
-
