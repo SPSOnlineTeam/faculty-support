@@ -19,7 +19,7 @@ TIP: Most instructors primarily provide feedback to students using this “Assig
 ![](https://lh3.googleusercontent.com/LN00u8rWW5anxzayXzIdNrVIW87hboM-npEwdjD-wQzFv9-cao9-pOuZ4jOQ7oqPsU-SYgbzoL-Jbp85hLrt6XRXIkTtbGmltBi-KZ-Jf1TKp5lsOoa8F-wDMzQOuUmqYVO36Zbq)
 {% endtab %}
 
-{% tab title="2. Filling in a grade through the Gradebook" %}
+{% tab title="2. Filling in a grade through the gradebook" %}
 You can also just type in a grade \(letter, number, complete/incomplete is set in the Assignment\) via the grade book, and provide comments as well. Simply click on the small comment icon in the upper right-hand corner of each assignment block.
 
 ![](https://lh6.googleusercontent.com/5xA6T0IxqsbrW533lj3A0oe9htX2G3s3P_2LstewmgTNr3RDrlF-BkzaG7bgBz1q9h0ivpEx-VMxUlWS2MooosadKNg95DgrsH8A7TtBeRn4bx1LHjoSHobVh9QvF3TuLIrjpvSN)
