@@ -37,7 +37,7 @@ Please also keep in mind that you can find resubmissions \(which appear shaded i
 
 ![](https://lh4.googleusercontent.com/nqfU7LZ7zGSgo0KIminozfaD3MyS4SYmRJqn-x4WQ6MBWwI4qWE10ZsajHWzhi2kAQW2D7qWrXGcOBU0vrlmBFZ19XsDwxza_u-kV0llj7mxq1c5CWTno8x27EQW4XiHGvYnsUBB)
 
-**And this is how it appears in SpeedGrader:**  
+And this is how it appears in SpeedGrader:  
 
 
 ![](https://lh3.googleusercontent.com/ASFHF-OG2YYHN8N7xdYHRkcPk2mISy7M3R8V9q1csdHN3vlPUpykxewK8Nr6gXQkVVkqBdNpApzQZHog8i9GKPbs1GIQpLACETiTFflC2CI0_DX7Z0we8FDCWn5N-StxX7sZz1MS)
