@@ -23,7 +23,7 @@ It’s 5pm, you are sitting down with a cup of tea to review what’s happening 
 1. Copy and paste the Share YouTube link. \(You will need it for \#3\)
 2. From the discussion, click reply to the initial post or to a thread of posts. This will open the discussion reply editor.
 3. Click the link icon and paste the YouTube share link you copied in the URL space provided.
-   1. IMPORTANT: to share a URL, you’d follow the same process--click the link icon and paste the url in the space provided.
+   * IMPORTANT: to share a URL, you’d follow the same process--click the link icon and paste the url in the space provided.
 4. Add an Alt text for inline preview to make this video link accessible to all students.
 5. Click Insert Link to embed this video in your reply post.
 6. Contextualize the video link so students know why you are sharing it and what to do with it.
@@ -66,10 +66,10 @@ To show an authentic example of the information you are describing in text, you 
 
 4. Select the Images tab on the right to find and select the image file. Once you click the image, it will appear in the assignment content editor.
 
-   1. Resize the image if it is too big or too small. 
-      1. Click on the image to highlight it and then select the embed image icon from the rich content editor; the Insert/Edit Image box will pop up. Under Attributes, edit the dimensions to resize the image.
-   2. Add Alt text to make the image accessible to all students. 
-      1. Under Attributes, edit the Alt text. Alt text should be accurate and equivalent in presenting content and function of image, be succinct, not be redundant to other text information on the page, and not use phrases “image of” or “graphic of” to describe the image.
+   * Resize the image if it is too big or too small. 
+     * Click on the image to highlight it and then select the embed image icon from the rich content editor; the Insert/Edit Image box will pop up. Under Attributes, edit the dimensions to resize the image.
+   * Add Alt text to make the image accessible to all students. 
+     * Under Attributes, edit the Alt text. Alt text should be accurate and equivalent in presenting content and function of image, be succinct, not be redundant to other text information on the page, and not use phrases “image of” or “graphic of” to describe the image.
 
    ![](https://lh3.googleusercontent.com/eA43hoTDRE3ac6l5a-TmfdbNr7I8ay0uDjoFPPgmOEE7o63D4EWbYcyIY_tLhvCWJt_Opq2SCHfO4-op4CqrC_leU_RmFWqXcBtAVlYyzk8MW7WzWpz6endicB5YLwgL3KBwlXAK)
 
