@@ -23,11 +23,14 @@ It’s 5pm, you are sitting down with a cup of tea to review what’s happening 
 1. Copy and paste the Share YouTube link. \(You will need it for \#3\)
 2. From the discussion, click reply to the initial post or to a thread of posts. This will open the discussion reply editor.
 3. Click the link icon and paste the YouTube share link you copied in the URL space provided.
-   * IMPORTANT: to share a URL, you’d follow the same process--click the link icon and paste the url in the space provided.
 4. Add an Alt text for inline preview to make this video link accessible to all students.
 5. Click Insert Link to embed this video in your reply post.
 6. Contextualize the video link so students know why you are sharing it and what to do with it.
 7. Click Post Reply.
+
+{% hint style="info" %}
+Note: To share a URL, you’d follow the same process – click the link icon and paste the URL in the space provided.
+{% endhint %}
 
 ![](https://lh5.googleusercontent.com/wzrcbTwpqbuOjGdMsldc_XEG45l15huSkvjvim1YDNJWNx-I5bM3jouMjE0zN_kTyxojghKqhZo3IiU8fGWsJRqFqb59keiMsN0XWVYuIerAvw7hLNecoVSM0oYOL-Ew4k6JZ5nt)
 {% endtab %}
@@ -39,16 +42,18 @@ While grading an assignment, you observe students struggling with the same probl
 
 ### How do you link to a file in your announcement text?
 
-1. Upload the excel sheet \(or any other file type\) to one of your folders in the Files area.   _**NOTE:  We recommend an organized, user-friendly Files area with named folders.**_![](https://lh4.googleusercontent.com/ou83T0OQatmdciZIjdxJnQ9naqbxm9iBkcsdm2t_0gb2kmWaQAQD32_654O1Sq8GoesZ80n0wkMs0-kv4sJARN2kdpdez0lzC5PQDC3ZuZblV-2BU3ua3oHreCznrDAaSuog9mUD)_\*\*\*\*_
+1. Upload the excel sheet \(or any other file type\) to one of your folders in the Files area.  _NOTE: We recommend an organized, user-friendly Files area with named folders._ ![](https://lh4.googleusercontent.com/ou83T0OQatmdciZIjdxJnQ9naqbxm9iBkcsdm2t_0gb2kmWaQAQD32_654O1Sq8GoesZ80n0wkMs0-kv4sJARN2kdpdez0lzC5PQDC3ZuZblV-2BU3ua3oHreCznrDAaSuog9mUD) 
 2. From the course navigation, click on Announcements and then click + Announcement to draft your message in the editor.
-3. Within your announcement, describe the file you are sharing with students so they know that is being shared. I.e.; _Please review the excel spreadsheet with the correct formulas to check your work._ This text will be linked to the file.
+3. Within your announcement, describe the file you are sharing with students so they know that is being shared \(e.g. "Please review the excel spreadsheet with the correct formulas to check your work."\) __This text will be linked to the file.
 4. Highlight the text to link, and then select the Files tab and click on excel file.
 
 ![](https://lh5.googleusercontent.com/5VbO4_q7ziuYhEtLQrMVINbTI_UBLkgFRy1I47_j2ZtXP19uwgiDDsJpfKaWqvMRvQ9dNp7zZI6X9TgftbPrbJeunlsexqSBfZ2GoZ-TKvNucokCHn4R5yihyukRTOseIQIyijhb)
 
 5. Click Save on your announcement to post in the course.
 
-_**Note: You may also add a file as an attachment to an announcement but it less visible to the viewer because it appears below the announcement text.**_ 
+{% hint style="info" %}
+Note: You may also add a file as an attachment to an announcement but it less visible to the viewer because it appears below the announcement text.
+{% endhint %}
 {% endtab %}
 
 {% tab title="Embed an Image" %}
@@ -76,8 +81,4 @@ To show an authentic example of the information you are describing in text, you 
 5. Once your image is where and how you want it to be, click Save on the assignment page.
 {% endtab %}
 {% endtabs %}
-
-
-
-
 
