@@ -15,7 +15,7 @@
   * [Grading in Canvas](working-in-canvas/grading-in-canvas.md)
   * [Getting Help](working-in-canvas/getting-help.md)
 * [Working in Campus \(IE Brown EMBA\)](ie-brown-emba-faculty/README.md)
-  * [Assessment & Evaluation](ie-brown-emba-faculty/assessment-and-evaluation.md)
+  * [Grading Guidance](ie-brown-emba-faculty/assessment-and-evaluation.md)
 * [Online Classroom Design](online-classroom-design/README.md)
   * [Design Principles](online-classroom-design/design-principles.md)
   * [Pedagogy](online-classroom-design/pedagogy.md)

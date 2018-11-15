@@ -1,4 +1,4 @@
-# Assessment & Evaluation
+# Grading Guidance
 
 ### **Communicating Expectations and Evaluation Criteria**
 
