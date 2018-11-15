@@ -8,7 +8,6 @@
     * [Giving Students Feedback](working-in-canvas/reviewing-student-work-and-grading/giving-students-feedback.md)
   * [Communicating with Students](working-in-canvas/communications.md)
   * [Enhance Content with Files or URLs](working-in-canvas/uploading-files-and-photos/README.md)
-    * [Share Files, Photos, or Video URLs in Canvas](working-in-canvas/uploading-files-and-photos/share-files-photos-or-video-urls-in-canvas.md)
     * [Record and Upload Media](working-in-canvas/uploading-files-and-photos/recording-and-uploading-media-with-canvas-media-recorder.md)
     * [Record a Screencast](working-in-canvas/uploading-files-and-photos/recording-a-screencast-video-in-canvas-media-library.md)
   * [Discussions](working-in-canvas/discussions.md)
