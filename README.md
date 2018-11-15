@@ -10,7 +10,7 @@ description: Let's dive in. Select an area to learn about below.
 
 {% page-ref page="teaching-online/" %}
 
-{% page-ref page="ie-brown-emba-faculty.md" %}
+{% page-ref page="ie-brown-emba-faculty/" %}
 
 
 
