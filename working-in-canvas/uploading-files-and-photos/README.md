@@ -2,10 +2,10 @@
 
 You can share a number of file types, including .pdf, .xls, .doc, images \(.png, .jpg\), videos, and URL links in your course. Authentic materials enhance your content and help your students learn; the content comes alive when you show how it’s applied to the “real world”.
 
-The following scenarios are common occurrences while designing or delivering an online course.
+We've highlighted 3 common practices for sharing files or web content.
 
 1. Add a Video URL
-2. Share a File \(xls, pdf, doc, ppt, etc.\)
+2. Link a File \(xls, pdf, doc, ppt, etc.\)
 3. Embed an Image \(png, jpg, etc.\)
 
 {% hint style="info" %}
@@ -15,8 +15,6 @@ NOTE: The processes for linking to websites, uploading, or sharing images, video
 {% tabs %}
 {% tab title="Add Video URL" %}
 ### Adding a Video Link to Your Discussion Reply
-
-It’s 5pm, you are sitting down with a cup of tea to review what’s happening in your online discussion. You came across an interview on YouTube today that will highlight an opposing view's perspective in the discussion and potentially take the discussion to a new level. 
 
 **What's the best way to add the video URL to your discussion post?** 
 
@@ -35,12 +33,10 @@ Note: To share a URL, you’d follow the same process – click the link icon a
 ![](https://lh5.googleusercontent.com/wzrcbTwpqbuOjGdMsldc_XEG45l15huSkvjvim1YDNJWNx-I5bM3jouMjE0zN_kTyxojghKqhZo3IiU8fGWsJRqFqb59keiMsN0XWVYuIerAvw7hLNecoVSM0oYOL-Ew4k6JZ5nt)
 {% endtab %}
 
-{% tab title="Share a File" %}
-### Share a File in an Announcement 
+{% tab title="Link to a File" %}
+### Link to a File in an Announcement 
 
-While grading an assignment, you observe students struggling with the same problem. You'd like to post the excel spreadsheet with solutions and explanations for the whole class to review. Posting an announcement seems like the easiest way to do this. 
-
-### How do you link to a file in your announcement text?
+How do you link to an Excel file in your announcement text?
 
 1. Upload the excel sheet \(or any other file type\) to one of your folders in the Files area.  _NOTE: We recommend an organized, user-friendly Files area with named folders._ ![](https://lh4.googleusercontent.com/ou83T0OQatmdciZIjdxJnQ9naqbxm9iBkcsdm2t_0gb2kmWaQAQD32_654O1Sq8GoesZ80n0wkMs0-kv4sJARN2kdpdez0lzC5PQDC3ZuZblV-2BU3ua3oHreCznrDAaSuog9mUD) 
 2. From the course navigation, click on Announcements and then click + Announcement to draft your message in the editor.
@@ -58,8 +54,6 @@ Note: You may also add a file as an attachment to an announcement but it less vi
 
 {% tab title="Embed an Image" %}
 ### Add an Image to an Assignment
-
-To show an authentic example of the information you are describing in text, you want to add an image.
 
 ### How do you embed an image on an assignment page?
 
