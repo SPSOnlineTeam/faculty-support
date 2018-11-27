@@ -36,7 +36,7 @@ Note: To share a URL, you’d follow the same process – click the link icon a
 {% tab title="Link to a File" %}
 ### Link to a File in an Announcement 
 
-How do you link to an Excel file in your announcement text?
+**How do you link to an Excel file in your announcement text?**
 
 1. Upload the excel sheet \(or any other file type\) to one of your folders in the Files area.  _NOTE: We recommend an organized, user-friendly Files area with named folders._ ![](https://lh4.googleusercontent.com/ou83T0OQatmdciZIjdxJnQ9naqbxm9iBkcsdm2t_0gb2kmWaQAQD32_654O1Sq8GoesZ80n0wkMs0-kv4sJARN2kdpdez0lzC5PQDC3ZuZblV-2BU3ua3oHreCznrDAaSuog9mUD) 
 2. From the course navigation, click on Announcements and then click + Announcement to draft your message in the editor.
@@ -55,7 +55,7 @@ Note: You may also add a file as an attachment to an announcement but it less vi
 {% tab title="Embed an Image" %}
 ### Add an Image to an Assignment
 
-### How do you embed an image on an assignment page?
+**How do you embed an image on an assignment page?**
 
 1. Make sure your image file is downloaded to your computer.
 2. Like with the excel file \(see Share a File tab\), from the course navigation menu, click on Files to upload your image.
