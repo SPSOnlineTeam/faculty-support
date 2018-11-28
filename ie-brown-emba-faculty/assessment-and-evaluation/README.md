@@ -50,7 +50,7 @@ Use the IE Brown grading sheet as a calculator to check grade inflation before r
 RECOMMENDATION: Before you “unhide” assignment or participation grades, use the Grading Sheet “calculator” to check the grade average \(3.32 or below\).
 {% endhint %}
 
-[**See detailed screenshots here**](https://docs.google.com/document/d/1CYGsQeBZNVqHvB_gltwXFzZeEP1CH7HZwtnldzCn6us/edit?usp=sharing)**.**
+[**See detailed screenshots here**](https://brown-sps-online.gitbook.io/facultyguide/~/edit/drafts/-LSQMMkoS6xwI5d_10uI/ie-brown-emba-faculty/assessment-and-evaluation/sample-screenshots)**.**
 
 1. Open Grade Center to assign student scores.
 2. Get the letter grade from the weighted column in Grade Center.
