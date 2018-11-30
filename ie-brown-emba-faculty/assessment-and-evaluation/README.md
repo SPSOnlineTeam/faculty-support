@@ -1,15 +1,24 @@
 # Grading Guidance
 
-### **Communicating Expectations and Evaluation Criteria**
+### Evaluation Criteria 
 
-Use the Evaluation section of your syllabus to define the criteria you will use to evaluate student work. You may describe the types of assessments– participation, group project, paper, etc.– and provide an overview of the deliverables. \(see syllabus [evaluation examples](https://sites.google.com/a/brown.edu/emba-syllabus-style-guide/home/evaluation-criteria/evaluation-criteria-samples)\).
+This section of your syllabus includes a clear description of assessment types - participation, group work, paper, etc.–  and provides a breakdown of how you will calculate final grades. 
 
-The _Evaluation_ section of your syllabus details how:
+Use this section to: 
 
-* deliverables and participation will be assessed
-  * expectations
-  * criteria
-* Assessments and the relative weight \(if applicable\) count toward the final grade.
+* Explain how assignments, activities, and projects will be assessed and the criteria you will use.
+* Delineate how individual assignments contribute to the final grade.
+
+### **Communicating Expectations**
+
+**The following guidelines are recommended for graduate courses**:
+
+* If more than 10-15% of the final grade is devoted to “class participation,” your syllabus should include some guidelines as to how you will assess “class participation.”
+* If a large percentage of the final grade is devoted to a “course paper,” then your syllabus should indicate what interim assessments or feedback opportunities a student can expect on the paper during the term.
+
+![Example 1\) Final Paper Expectations](../../.gitbook/assets/screen-shot-2018-11-30-at-13.47.48.png)
+
+![Example 2\) Participation Expectations ](../../.gitbook/assets/screen-shot-2018-11-30-at-13.44.53.png)
 
 ### **Grading & Program Requirements**
 
@@ -44,10 +53,10 @@ The grading sheet is an Excel spreadsheet with your student roster and a grade i
 
 ### **Grading as You Go**
 
-Use the IE Brown grading sheet as a calculator to check grade inflation before releasing grades. All columns are hidden from student view so you may enter grades and use the calculator to make adjustments.
+Use the IE Brown grading sheet as a _calculator_ to check grade inflation before releasing grades. All columns are hidden from student view so you may enter grades and use the calculator to make adjustments.
 
 {% hint style="info" %}
-RECOMMENDATION: Before you “unhide” assignment or participation grades, use the Grading Sheet “calculator” to check the grade average \(3.32 or below\).
+TIP: Before you “unhide” assignment or participation grades, use the Grading Sheet _calculator_ to check the grade average \(3.32 or below\).
 {% endhint %}
 
 [**See detailed screenshots here**](https://brown-sps-online.gitbook.io/facultyguide/~/edit/drafts/-LSQMMkoS6xwI5d_10uI/ie-brown-emba-faculty/assessment-and-evaluation/sample-screenshots)**.**
