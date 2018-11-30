@@ -39,7 +39,7 @@ Thus, we recommend that you use the program grading scale to set up your evaluat
 | C | 2 | _Penalization for failure to complete coursework, prolonged class absence or academic behavior._ |
 | F | 0 | _Penalization for academic misconduct or dishonesty. Failure to submit final exam or final deliverable._ |
 
-### **Save time– use the Grade Center**
+### **Save Time– Use the Grade Center**
 
 Making use Campus’ Grade Center will save you time. Unless the faculty and ID have implemented another tracking system, your Grade Center will be set up with:
 
@@ -47,11 +47,11 @@ Making use Campus’ Grade Center will save you time. Unless the faculty and ID 
   * [How do I grade assignments in Grade Center?](http://www.screencast.com/t/sUfrlnG9qrM4)
 * a hidden weighted grade column to track your students’ overall weighted percentage and letter grade.
 
-### **Using the IE Brown Grading Sheet**
+### **The IE Brown Grading Sheet**
 
 The grading sheet is an Excel spreadsheet with your student roster and a grade inflation calculator. The Program Management Team will send you grading sheets for each section \(M-1 and M-2\).
 
-### **Grading as You Go**
+### **Grade as You Go**
 
 Use the IE Brown grading sheet as a _calculator_ to check grade inflation before releasing grades. All columns are hidden from student view so you may enter grades and use the calculator to make adjustments.
 
@@ -71,7 +71,7 @@ TIP: Before you “unhide” assignment or participation grades, use the Grading
 Where an average course grade is above the 3.32 \(B\) level you will be asked to provide formal justification in light of the criteria and procedures stated in your syllabus for program management to review.
 {% endhint %}
 
-### **Submit your final grades**
+### **Submit your Final Grades**
 
 You will send your final IE Brown Grading Sheet to the program coordinator, program manager, and academic director two weeks from your final deliverable due date or session end date \(whichever is later\) **NOTE: You need to send a copy of your grading breakdown if you don’t use Grade Center.**  Once approved, program management will post final grades and notify students; faculty may provide detailed feedback to students directly. 
 
