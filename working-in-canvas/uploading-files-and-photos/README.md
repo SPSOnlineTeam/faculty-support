@@ -1,9 +1,3 @@
----
-description: >-
-  Authentic materials enhance your content and help your students learn; the
-  content comes alive when you show how it’s applied to the “real world”.
----
-
 # Add Files to Your Online Content
 
 You can share a number of file types, including .pdf, .xls, .doc, images \(.png, .jpg\), videos, and URLs in your content. 
