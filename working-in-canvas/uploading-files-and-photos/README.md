@@ -58,9 +58,6 @@ Note: You may also add a file as an attachment to an announcement but it less vi
 
 1. Download the image file to your computer. 
 2. Edit the assignment page and place your cursor where you’d like to insert the image file.
-
-   ![](https://lh3.googleusercontent.com/6YhTvrXCbrb173OKM-v0_1UC8aCEvgkxahiQbYmLrShZ1T9puRmPLJ5MNYzgqSYlcENSJWscJYGd8XHWKiuIz_r7tLhWfgVaNgr-tOOXj0C2ciUzcy0O3FwQdPZjTUfKn01CAArT)
-
 3. Select the **Images** tab on the right to find and select the image file. Once you click the image, it will appear in the assignment content editor.
 
    * Resize the image if it is too big or too small. 
@@ -70,7 +67,15 @@ Note: You may also add a file as an attachment to an announcement but it less vi
 
    ![](https://lh3.googleusercontent.com/eA43hoTDRE3ac6l5a-TmfdbNr7I8ay0uDjoFPPgmOEE7o63D4EWbYcyIY_tLhvCWJt_Opq2SCHfO4-op4CqrC_leU_RmFWqXcBtAVlYyzk8MW7WzWpz6endicB5YLwgL3KBwlXAK)
 
-4. Click Save on the assignment page.
+{% hint style="danger" %}
+If you have not uploaded the file to your Canvas course yet, you need to click **+Upload a new file** to one of your folders in the Files area. Learn more about [Using your Canvas Course Files](https://brown-sps-online.gitbook.io/facultyguide/working-in-canvas/using-your-course-files).
+
+![](https://lh4.googleusercontent.com/ou83T0OQatmdciZIjdxJnQ9naqbxm9iBkcsdm2t_0gb2kmWaQAQD32_654O1Sq8GoesZ80n0wkMs0-kv4sJARN2kdpdez0lzC5PQDC3ZuZblV-2BU3ua3oHreCznrDAaSuog9mUD)
+{% endhint %}
+
+![](https://lh3.googleusercontent.com/6YhTvrXCbrb173OKM-v0_1UC8aCEvgkxahiQbYmLrShZ1T9puRmPLJ5MNYzgqSYlcENSJWscJYGd8XHWKiuIz_r7tLhWfgVaNgr-tOOXj0C2ciUzcy0O3FwQdPZjTUfKn01CAArT)
+
+4. Click **Save** on the assignment page.
 {% endtab %}
 {% endtabs %}
 
