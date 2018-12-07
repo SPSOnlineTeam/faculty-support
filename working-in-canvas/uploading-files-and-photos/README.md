@@ -43,7 +43,7 @@ To share a URL, you’d follow the same process – click the link icon and pas
 {% hint style="danger" %}
 If you have not uploaded the file to your Canvas course yet, you need to click **+Upload a new file** to one of your folders in the Files area. ![](https://lh4.googleusercontent.com/ou83T0OQatmdciZIjdxJnQ9naqbxm9iBkcsdm2t_0gb2kmWaQAQD32_654O1Sq8GoesZ80n0wkMs0-kv4sJARN2kdpdez0lzC5PQDC3ZuZblV-2BU3ua3oHreCznrDAaSuog9mUD)
 
-Note: When working with a lot of files, you can organize your Files area with naming conventions.
+Learn more about [Using your Canvas Course Files](https://brown-sps-online.gitbook.io/facultyguide/working-in-canvas/using-your-course-files).
 {% endhint %}
 
 3. Click **Save** on your announcement to post in the course.
