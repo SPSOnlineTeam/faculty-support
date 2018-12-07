@@ -1,4 +1,4 @@
-# Add Files to Your Online Content
+# Adding Files to Your Online Content
 
 You can share a number of file types, including .pdf, .xls, .doc, images \(.png, .jpg\), videos, and URLs in your content. 
 
