@@ -6,7 +6,7 @@ You can upload one or multiple files, view details about your files, preview fil
 
 ![Files are unorganized](https://lh3.googleusercontent.com/7nPYadUtIpzOzVuiB-D3NG4fTDyOiMG2o6iAiDtot2BZMULmu-w4r-60VStOy5gEpYIN3THCty-HJoNU-5IkejboYnYeuuHcFMyBpd0asoLzO_72iQrPMbbw2d3g5hjpvmTEI49C)
 
-![Files are organized within thoughtfully named folders.](https://lh4.googleusercontent.com/9g9vRs5BsPtI_s8TsUzrm3N1nlypubBlakhRzZdYzCpcd3RndOarhNxmHU6jIiY5MEUn9QJ-5kx7yiP2bJwGgT1UFAY7B7cvwydUZhez6UPdRRdwLHPLkfzTzLphnn6jKeUuEZEx)
+![Files are organized in carefully named folder.](https://lh4.googleusercontent.com/9g9vRs5BsPtI_s8TsUzrm3N1nlypubBlakhRzZdYzCpcd3RndOarhNxmHU6jIiY5MEUn9QJ-5kx7yiP2bJwGgT1UFAY7B7cvwydUZhez6UPdRRdwLHPLkfzTzLphnn6jKeUuEZEx)
 
 ![](https://lh4.googleusercontent.com/tltHSCmFbWc5wVYfDORbrbrxOaKs7wAXK33sO7s81NJt-I_g8x8zr2I6PLEoLNemyFJHk9Rtkn7HKReUFxgCMQAei2WsHDOAMnw9tLdZf8CSpmW7T_WQGR2bJ7SWE4nbruActH_z)
 
