@@ -34,16 +34,19 @@ To share a URL, you’d follow the same process – click the link icon and pas
 {% tab title="Link to a File" %}
 ### Link to a File in an Announcement 
 
-**How do you link to an Excel file in your announcement text?**
-
-1. Upload the excel sheet \(or any other file type\) to one of your folders in the Files area.  _NOTE: We recommend an organized, user-friendly Files area with named folders._ ![](https://lh4.googleusercontent.com/ou83T0OQatmdciZIjdxJnQ9naqbxm9iBkcsdm2t_0gb2kmWaQAQD32_654O1Sq8GoesZ80n0wkMs0-kv4sJARN2kdpdez0lzC5PQDC3ZuZblV-2BU3ua3oHreCznrDAaSuog9mUD) 
-2. From the course navigation, click on Announcements and then click + Announcement to draft your message in the editor.
-3. Within your announcement, describe the file you are sharing with students so they know that is being shared \(e.g. "Please review the excel spreadsheet with the correct formulas to check your work."\) __This text will be linked to the file.
-4. Highlight the text to link, and then select the Files tab and click on excel file.
+1. Click on the **Announcements** button on the left-hand side of your course site, and then click **+ Announcement** to draft your message. 
+   * Your announcement message should describe the file you are sharing so students know what it is; \(e.g. "Please review the excel spreadsheet with the correct formulas to check your work."\). __
+2. Highlight the **text to link**, and then select the **Files** tab and click on your excel file. 
 
 ![](https://lh5.googleusercontent.com/5VbO4_q7ziuYhEtLQrMVINbTI_UBLkgFRy1I47_j2ZtXP19uwgiDDsJpfKaWqvMRvQ9dNp7zZI6X9TgftbPrbJeunlsexqSBfZ2GoZ-TKvNucokCHn4R5yihyukRTOseIQIyijhb)
 
-5. Click Save on your announcement to post in the course.
+{% hint style="danger" %}
+If you have not uploaded the file to your Canvas course yet, you need to click **+Upload a new file** to one of your folders in the Files area. ![](https://lh4.googleusercontent.com/ou83T0OQatmdciZIjdxJnQ9naqbxm9iBkcsdm2t_0gb2kmWaQAQD32_654O1Sq8GoesZ80n0wkMs0-kv4sJARN2kdpdez0lzC5PQDC3ZuZblV-2BU3ua3oHreCznrDAaSuog9mUD)
+
+Note: When working with a lot of files, you can organize your Files area with naming conventions.
+{% endhint %}
+
+3. Click **Save** on your announcement to post in the course.
 
 {% hint style="info" %}
 Note: You may also add a file as an attachment to an announcement but it less visible to the viewer because it appears below the announcement text.
