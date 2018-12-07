@@ -1,12 +1,12 @@
 # Record a Screencast
 
-A **screencast** is a digital recording of what a person does on their computer—the video version of a screenshot—which may also contain audio narration to accompany the video. 
+A **screencast** is a digital recording of what a person does on their computer—the video version of a screenshot or picture of something on your computer's screen—which may also contain audio narration to accompany the video. 
 
-This guide will take you step-by-step through the process of recording a screencast with the **Panopto media tool**, and upload it directly into the Media Library of your course.
+**Panopto** is the media server at Brown. The steps below show you how to record a screencast with  Panopto, and upload it directly to your course's media library. 
 
 ### Recording a Screencast 
 
-1. Click on **Media Library** in your course site navigation.
+1. Click on **Media Library** from the left-hand course navigation.
 
 ![](https://lh4.googleusercontent.com/SH9VNTqdJOXzJ3QbI1HYDs3nXEmDsUYDTh3NdP7GIwN5iRxL_BFEPmaAFM9tKbY5nSLvp-zfBkGpclOgO5FdgmPNjt6i-TrrZLoCJ8n1tc-L68Ql5DdNuVrouf10BAIVo8JvgKtt)
 
