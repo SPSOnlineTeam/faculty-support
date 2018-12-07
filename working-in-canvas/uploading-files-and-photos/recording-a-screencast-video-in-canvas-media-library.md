@@ -23,12 +23,16 @@ If you have Panopto installed on your computer, the Panopto media recorder shoul
 3. The Panopto media recorder window is simple. Make a few selections and you're ready to record your presentation.
 
 * Prepare your microphone. Use a headset or earbud mic instead of the computer's built-in mic, if possible.
-* Select your Secondary Source 1 and Now you can start recording!
+* Select your Secondary Source 1 and you can start recording!
 * To finish recording the presentation, press the Esc key on your keyboard, and then click on the Stop button \(where the Record button was located earlier\)
 
  ![](https://lh5.googleusercontent.com/Ud2VC9HL0xzWwXIfrnYEIiW-hiRJoYezigUAq9oniu2TenIp57NENyTFU6hObS_1UNq1DpaX-_dPp8NmDQjAMCzp9v_yOqvVWJTd9efc5OyvnkSocatzDcfNrqQ-4k-kuF4rkdc_)
 
-4. You may now rename the file with an appropriate title by editing the text in the Session name box. You may also enter a description of the screencast. Select Upload to upload the file to Canvas. The upload request takes a few minutes to process.
+4. Rename the screencast with an appropriate title by editing the text in the **Session name** box. Select **Upload** to upload the file to Canvas. The upload request takes a few minutes to process.
 
 ![](https://lh5.googleusercontent.com/MxqRmcxZcp-HkS_oQNF7eH54kNGUWbEwl2Z8X_Wo-xDhmgAcuzFX75WZVO1Wx93M-qh2tRcTb289zrSvyvJm0zoyIMQmFKarUt4lYTwq8WJPP1VmFCDBsiBTQo7r2sn7u6uEoTDi)
+
+Once processing is complete, you may close the Panopto recorder. Your screencast file will automatically be uploaded to your course's media library. You can edit your screencast; e.g. cut portions. [Be sure to visit Brown's IT Knowledgebase for information about editing screencasts.](https://ithelp.brown.edu/kb/articles/basic-editing-in-panopto)
+
+![](https://lh5.googleusercontent.com/L9eepj2jfVMO5j3qChjCiKAySm7It6b58Hv_GxQXyUTAwUOK7X9ntC-EQzTK7aqMbisUdCNXzq16_9fXTq_Fnhpio7rF8eAAsUheR1anL9A2yJ3YO9g7f3bfq8Etp6gC_jp8LpTk)
 
