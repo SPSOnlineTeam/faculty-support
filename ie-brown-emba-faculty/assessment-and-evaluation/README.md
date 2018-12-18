@@ -67,11 +67,11 @@ You may use the IE Brown grading sheet as a "calculator" to check grade inflatio
 4. If you have grade inflation, you may adjust your grade distribution or threshold to achieve the 3.32 average or below.
 5. Update your assignment score in Grade Center and then you may “show” scores to students.  
 
+### **Submit your Final Grades**
+
 {% hint style="info" %}
 **NOTE**: Where an average course grade is above the 3.32 \(B\) level you will be asked to provide justification in light of the criteria and procedures stated in your syllabus for program management to review.
 {% endhint %}
-
-### **Submit your Final Grades**
 
 Send your final IE Brown Grading Sheet to the program coordinator, program manager, and academic director two weeks from your final deliverable due date or session end date \(whichever is later\) 
 
