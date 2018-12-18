@@ -58,7 +58,7 @@ Note: You may also add a file as an attachment to an announcement but it less vi
 
 * Resize the image if it is too big or too small. 
   * Click on the image to highlight it and then select the embed image icon from the rich content editor; the Insert/Edit Image box will pop up. Under Attributes, edit the dimensions to resize the image.
-* Add Alt text to make the image accessible. 
+* Add Alt text to make the image accessible for learners using assistive technology. 
   * Under Attributes, edit the Alt text. Alt text is a succinct description that is equivalent to the function of the image. Do not use phrases like “image of” or “graphic of” to describe the image.
 
 4. Click **Save** on the assignment page.
