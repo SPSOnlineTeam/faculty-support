@@ -12,7 +12,7 @@
   * [Adding Files to Your Online Content](working-in-canvas/uploading-files-and-photos/README.md)
     * [Record and Upload Media](working-in-canvas/uploading-files-and-photos/recording-and-uploading-media-with-canvas-media-recorder.md)
     * [Record a Screencast](working-in-canvas/uploading-files-and-photos/recording-a-screencast-video-in-canvas-media-library.md)
-  * [Using your Course Files](working-in-canvas/using-your-course-files.md)
+  * [Using Your Course Files](working-in-canvas/using-your-course-files.md)
   * [Getting Help](working-in-canvas/getting-help.md)
 * [Working in Campus \(IE Brown EMBA\)](ie-brown-emba-faculty/README.md)
   * [Grading Guidance](ie-brown-emba-faculty/assessment-and-evaluation/README.md)
