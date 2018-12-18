@@ -39,12 +39,6 @@ Click the link icon and paste the URL in the space provided.
 
 ![](../../.gitbook/assets/adding-files_announcement.png)
 
-### Need to add a file to Canvas? 
-
-If you have not uploaded the file to your Canvas course yet, you need to click **+ Upload a new file** to one of your folders in the Files area. To learn more, visit: [Using your Canvas Course Files](https://brown-sps-online.gitbook.io/facultyguide/working-in-canvas/using-your-course-files).
-
-![](../../.gitbook/assets/adding-files_upload-a-new-file.png)
-
 3. Click **Save** on your announcement to post in the course.
 
 {% hint style="info" %}
@@ -67,15 +61,15 @@ Note: You may also add a file as an attachment to an announcement but it less vi
 * Add Alt text to make the image accessible. 
   * Under Attributes, edit the Alt text. Alt text is a succinct description that is equivalent to the function of the image. Do not use phrases like “image of” or “graphic of” to describe the image.
 
-![](../../.gitbook/assets/adding-files_image-attributes.png)
-
-{% hint style="info" %}
-If you have not uploaded the file to your Canvas course yet, you need to click **+Upload a new file** to one of your folders in the Files area. Learn more about [Using your Canvas Course Files](https://brown-sps-online.gitbook.io/facultyguide/working-in-canvas/using-your-course-files).
-
-![](../../.gitbook/assets/adding-files_upload-a-new-file.png)
-{% endhint %}
-
 4. Click **Save** on the assignment page.
 {% endtab %}
 {% endtabs %}
+
+### Need to add a file to Canvas? 
+
+If you have not uploaded the file to your Canvas course yet, you need to click **+ Upload a new file** to one of your folders in the Files area. To learn more, visit: [Using Your Course Files](../using-your-course-files.md).
+
+![](../../.gitbook/assets/adding-files_upload-a-new-file.png)
+
+
 
