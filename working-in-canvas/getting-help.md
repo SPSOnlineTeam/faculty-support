@@ -11,7 +11,7 @@ Select the option to **contact Canvas directly by phone \(support hotline\)** or
   
  ****
 
-![](https://lh4.googleusercontent.com/mrMdNENT4p6jlVZinhaVNuo_stSWUJO4TpcNv5KIVkDLIsOzc8hUbppF36B9059brPD8ZLO4JOFhd4Cj3l8OQ_piHmeaJNG8zLKa73XryYGku2SahQBjp2u3tX6AEAR7G2RN0Nk2)
+![](../.gitbook/assets/getting-help_canvas-help-menu.png)
 
 ### Get Technical Help \(Not-Canvas\)
 
