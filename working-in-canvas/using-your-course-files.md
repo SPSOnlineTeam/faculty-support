@@ -8,7 +8,7 @@ You can upload one or multiple files, view details about your files, preview fil
 
 ![Files are organized in carefully named folder.](https://lh4.googleusercontent.com/9g9vRs5BsPtI_s8TsUzrm3N1nlypubBlakhRzZdYzCpcd3RndOarhNxmHU6jIiY5MEUn9QJ-5kx7yiP2bJwGgT1UFAY7B7cvwydUZhez6UPdRRdwLHPLkfzTzLphnn6jKeUuEZEx)
 
-![](https://lh4.googleusercontent.com/tltHSCmFbWc5wVYfDORbrbrxOaKs7wAXK33sO7s81NJt-I_g8x8zr2I6PLEoLNemyFJHk9Rtkn7HKReUFxgCMQAei2WsHDOAMnw9tLdZf8CSpmW7T_WQGR2bJ7SWE4nbruActH_z)
+![](../.gitbook/assets/files_navigate.png)
 
 Above, the \(1\) left panel shows all folders. You can click the folders to display the contents on the right panel. The right panel displays the contents of the selected folder. The right panel will show the the name of the file, the date the file was created \(2\), the date the file was modified \(3\) and the name of the person who modified the file \(4\) \(if modified by another user\), and the size of the file \(5\).
 
