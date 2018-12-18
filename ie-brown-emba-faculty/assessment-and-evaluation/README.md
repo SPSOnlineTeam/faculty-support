@@ -53,29 +53,33 @@ The grading sheet is an Excel spreadsheet with your student roster and a grade i
 
 ### **Grade as You Go**
 
-Use the IE Brown grading sheet as a _calculator_ to check grade inflation before releasing grades. All columns are hidden from student view so you may enter grades and use the calculator to make adjustments.
+You may use the IE Brown grading sheet as a "calculator" to check grade inflation before releasing grades. All columns are hidden from student view so you may enter grades and use the calculator to make adjustments.
 
 {% hint style="info" %}
-TIP: Before you “unhide” assignment or participation grades, use the Grading Sheet _calculator_ to check the grade average \(3.32 or below\).
+**TIP**: Before you “unhide” assignment or participation grades, use the Grading Sheet _calculator_ to check the grade average \(3.32 or below\).
 {% endhint %}
 
-[**See detailed screenshots here**](https://brown-sps-online.gitbook.io/facultyguide/~/edit/drafts/-LSQMMkoS6xwI5d_10uI/ie-brown-emba-faculty/assessment-and-evaluation/sample-screenshots)**.**
+👀 [**See detailed screenshots here**](https://brown-sps-online.gitbook.io/facultyguide/~/edit/drafts/-LSQMMkoS6xwI5d_10uI/ie-brown-emba-faculty/assessment-and-evaluation/sample-screenshots)**.**
 
 1. Open Grade Center to assign student scores.
 2. Get the letter grade from the weighted column in Grade Center.
-3. Use your grading sheet “calculator”: type the letter grade in the Final Grade column.
-4. If you have grade inflation, you may adjust your grade distribution or threshold to achieve the **3.32 average or below**.
+3. Use your grading sheet “calculator”, type the letter grade in the Final Grade column.
+4. If you have grade inflation, you may adjust your grade distribution or threshold to achieve the 3.32 average or below.
 5. Update your assignment score in Grade Center and then you may “show” scores to students.  
 
-{% hint style="warning" %}
-Where an average course grade is above the 3.32 \(B\) level you will be asked to provide formal justification in light of the criteria and procedures stated in your syllabus for program management to review.
+{% hint style="info" %}
+**NOTE**: Where an average course grade is above the 3.32 \(B\) level you will be asked to provide justification in light of the criteria and procedures stated in your syllabus for program management to review.
 {% endhint %}
 
 ### **Submit your Final Grades**
 
-You will send your final IE Brown Grading Sheet to the program coordinator, program manager, and academic director two weeks from your final deliverable due date or session end date \(whichever is later\) **NOTE: You need to send a copy of your grading breakdown if you don’t use Grade Center.**  Once approved, program management will post final grades and notify students; faculty may provide detailed feedback to students directly. 
+Send your final IE Brown Grading Sheet to the program coordinator, program manager, and academic director two weeks from your final deliverable due date or session end date \(whichever is later\) 
 
-It is extremely important to submit your grading sheet with final course grades on time because the program management team reviews students’ academic performance at the end of each term of the program. Overall program grades are reported as a GPA and are calculated every academic term by weight averaging the grades across subjects \(based on session count\).
+🚩**Send a copy of your grading breakdown if you don’t use Grade Center**.  
 
-Students are informed about both their GPA and the position they hold in the class distribution in terms of percentile rank.
+Once approved, the program management team will post final grades and notify students; faculty may provide detailed feedback to students directly. 
+
+It is extremely important to submit your grading sheet with final course grades on time because the program management team reviews students’ academic performance at the end of each term of the program. 
+
+Overall program grades are reported as a GPA and are calculated every academic term by weight averaging the grades across subjects \(based on session count\). Students are informed about their GPA and the position they hold in the class distribution in terms of percentile rank.
 
