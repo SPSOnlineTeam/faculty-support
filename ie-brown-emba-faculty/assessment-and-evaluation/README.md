@@ -56,7 +56,7 @@ The grading sheet is an Excel spreadsheet with your student roster and a grade i
 You may use the IE Brown grading sheet as a "calculator" to check grade inflation before releasing grades. All columns are hidden from student view so you may enter grades and use the calculator to make adjustments.
 
 {% hint style="info" %}
-**TIP**: Before you “unhide” assignment or participation grades, use the Grading Sheet _calculator_ to check the grade average \(3.32 or below\).
+**TIP**: Before you “unhide” assignment or participation grades, use the Grading Sheet "calculator" to check the grade average \(3.32 or below\).
 {% endhint %}
 
 👀 [**See detailed screenshots here**](https://brown-sps-online.gitbook.io/facultyguide/~/edit/drafts/-LSQMMkoS6xwI5d_10uI/ie-brown-emba-faculty/assessment-and-evaluation/sample-screenshots)**.**
