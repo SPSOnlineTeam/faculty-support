@@ -9,7 +9,7 @@ We've highlighted 3 common practices for sharing files or web pages.
 3. Embed an Image \(png, jpg, etc.\)
 
 {% hint style="info" %}
-The processes for linking to websites, uploading, or sharing images, videos, or text-based files are the same for all Canvas items \(e.g. discussions,  pages, assignments or announcements\).
+NOTE: The processes for linking to websites, uploading, or sharing images, videos, or text-based files are the same for all Canvas items \(e.g. discussions,  pages, assignments or announcements\).
 {% endhint %}
 
 {% tabs %}
@@ -42,7 +42,7 @@ Click the link icon and paste the URL in the space provided.
 3. Click **Save** on your announcement to post in the course.
 
 {% hint style="info" %}
-Note: You may also add a file as an attachment to an announcement but it less visible to the viewer because it appears below the announcement text.
+TIP: You may also add a file as an attachment to an announcement but it less visible to the viewer because it appears below the announcement text.
 {% endhint %}
 {% endtab %}
 
