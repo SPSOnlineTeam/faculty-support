@@ -35,7 +35,7 @@ Please also keep in mind that you can find resubmissions \(which appear shaded i
   
 ****
 
-![](https://lh4.googleusercontent.com/nqfU7LZ7zGSgo0KIminozfaD3MyS4SYmRJqn-x4WQ6MBWwI4qWE10ZsajHWzhi2kAQW2D7qWrXGcOBU0vrlmBFZ19XsDwxza_u-kV0llj7mxq1c5CWTno8x27EQW4XiHGvYnsUBB)
+![](../../.gitbook/assets/screen-shot-2018-04-25-at-1.46.48-pm.png)
 
 And this is how it appears in SpeedGrader:  
 
@@ -46,7 +46,7 @@ And this is how it appears in SpeedGrader:
 {% tab title="2. \"Assignments\" view" %}
 You can access SpeedGrader through an assignment.
 
-![](https://lh6.googleusercontent.com/ILaXfx0rm4SuDBEGvv9KZuB_SPsC9rZgqL08soLAay44OrUCHl7a4jP09WUzbvZ5KTsOGN-3HXqSrnTLY0xqa1XiPa6A3uxelxoFT-crRf7Qsf--cJBBcKnTdt-pOBaF8O4bZRSZ)
+![](../../.gitbook/assets/assignments-and-grading_assignments-view.png)
 {% endtab %}
 
 {% tab title="3. SpeedGrader!" %}
@@ -56,7 +56,7 @@ Speedgrader offers a quick and friendly way for you to review the assignments an
 
 1. Pulldown lets you see all students, and which ones have submitted work.
 
-![](https://lh5.googleusercontent.com/YSxee3x4V1V_bSQ5hp-aJAdW24k_fH39NUAwZ6LrWcsmAqrFhZSbAKNaBdx21ZIhm1FK-j1SA4xRP1yemCbK2ofg7h43wbeb9Yh3ZOsye3c1WYZTmrHnV_binAWG7QnC8zFNWcd6)
+![](../../.gitbook/assets/assignments-and-grading_submissions-in-speedgrader.png)
 
 
 
