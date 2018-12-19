@@ -8,13 +8,13 @@ A **screencast** is a digital recording of what a person does on their computerâ
 
 1. Click on **Media Library** from the left-hand course navigation.
 
-![](https://lh4.googleusercontent.com/SH9VNTqdJOXzJ3QbI1HYDs3nXEmDsUYDTh3NdP7GIwN5iRxL_BFEPmaAFM9tKbY5nSLvp-zfBkGpclOgO5FdgmPNjt6i-TrrZLoCJ8n1tc-L68Ql5DdNuVrouf10BAIVo8JvgKtt)
+![](../../.gitbook/assets/screencast_media-library.png)
 
 
 
 2. Choose **Record a new session** from the **Create** menu.
 
-![](https://lh4.googleusercontent.com/cq4-Hhls0FVhGq78RKbbvBkg2Is1cgdniamHakSugZaOFRWr_9A5AwXCG8OMpLckDyb8GpG5mRwK2WAb9s5lEWpgQVZ4uwTpsnQIPJmUvooTxVrMFjz5dDGCZ8hOAEue4v13flBK)
+![](../../.gitbook/assets/screencast_create-recording.png)
 
 {% hint style="info" %}
 If you have Panopto installed on your computer, the Panopto media recorder should open up. If you do not, you will be prompted to install the correct version for your operating system \(OS\) using your Brown credentials. After installing, open Panopto.![](https://lh6.googleusercontent.com/fSj5lvmeOyBAj5h_ztC2U0sk1EaZ2FdTLnm7a6CCNs1dVT0Jt0ADhibYd0EkjWojJLQKWS3K72-vYBn9oYCI5s-3ipVXGiAYudaKBGvsHOr_FaRXvfZC5aMP4dPat5Bbws6OTBnS)
@@ -26,7 +26,7 @@ If you have Panopto installed on your computer, the Panopto media recorder shoul
 * Select your Secondary Source 1 and you can start recording!
 * To finish recording the presentation, press the Esc key on your keyboard, and then click on the Stop button \(where the Record button was located earlier\)
 
- ![](https://lh5.googleusercontent.com/Ud2VC9HL0xzWwXIfrnYEIiW-hiRJoYezigUAq9oniu2TenIp57NENyTFU6hObS_1UNq1DpaX-_dPp8NmDQjAMCzp9v_yOqvVWJTd9efc5OyvnkSocatzDcfNrqQ-4k-kuF4rkdc_)
+![](../../.gitbook/assets/screencast_panopto-recorder.png)
 
 4. Rename the screencast with an appropriate title by editing the text in the **Session name** box. Select **Upload** to upload the file to Canvas. The upload request takes a few minutes to process.
 
@@ -34,5 +34,5 @@ If you have Panopto installed on your computer, the Panopto media recorder shoul
 
 Once processing is complete, you may close the Panopto recorder. Your screencast file will automatically be uploaded to your course's media library. You can edit your screencast; e.g. cut portions. [Be sure to visit Brown's IT Knowledgebase for information about editing screencasts.](https://ithelp.brown.edu/kb/articles/basic-editing-in-panopto)
 
-![](https://lh5.googleusercontent.com/L9eepj2jfVMO5j3qChjCiKAySm7It6b58Hv_GxQXyUTAwUOK7X9ntC-EQzTK7aqMbisUdCNXzq16_9fXTq_Fnhpio7rF8eAAsUheR1anL9A2yJ3YO9g7f3bfq8Etp6gC_jp8LpTk)
+![](../../.gitbook/assets/screencast_edit%20%281%29.png)
 
