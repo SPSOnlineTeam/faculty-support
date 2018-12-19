@@ -21,7 +21,7 @@ Announcements can be used to:
 
 You can access the announcements for a course by clicking the “Announcements” link in the left-hand navigation.
 
-![](https://lh3.googleusercontent.com/Ur-CYbs9sfvgS2Yuxs8uFAity3t8CsGzpnndHxjroUI2F-VyLEiYaNFQmTVo2tx-SPvPMTtMxPOH8d1-37OTMVW0OeGqojGiET8gkfwifZUcfw7_gw61OxKAeM-x9wqd7tIK8sVm)
+![](../.gitbook/assets/announcements_navigation.png)
 {% endtab %}
 
 {% tab title="Inbox" %}
@@ -31,7 +31,7 @@ This in the internal message system within Canvas similar to an e-mail account. 
 
 The Canvas Inbox has a built-in address book. The Inbox system works very similarly to gmail or another comparable e-mail service.
 
-![](https://lh6.googleusercontent.com/KXt0g9L7-lLZhSyMscBMU1-56dCDyz7K7Bu4vWASocA-0qM9ybWgugEqj45kAlnD6IL6cMSlzt739Xr6Kb38IheXTkj_MLylcfFDSvMQq8JOxtzzcK7Z0A8E5dwCc0QI5qQDgXpE)
+![](../.gitbook/assets/communicating-with-students_inbox.png)
 {% endtab %}
 
 {% tab title="Discussions" %}
