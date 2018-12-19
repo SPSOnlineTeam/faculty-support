@@ -21,7 +21,7 @@ Grading is an important component of any course. But in an online course, it is 
 3. SpeedGrader!
 
 {% hint style="info" %}
-**Speedgrader** offers an easy way for you to review student assignment and discussion submissions. Through the tool, you can provide feedback to your students using text, audio or video, and it even lets you write your feedback directly on the documents they’ve submitted.
+TIP: ****Speedgrader offers an easy way for you to review student assignment and discussion submissions. Through the tool, you can provide feedback to your students using text, audio or video, and it even lets you write your feedback directly on the documents they’ve submitted.
 {% endhint %}
 
 ### **Navigating Submissions in Speedgrader**
