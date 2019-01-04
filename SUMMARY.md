@@ -17,7 +17,7 @@
 * [Working in Campus \(IE Brown EMBA\)](ie-brown-emba-faculty/README.md)
   * [Grading Guidance](ie-brown-emba-faculty/assessment-and-evaluation/README.md)
     * [Sample Screenshots](ie-brown-emba-faculty/assessment-and-evaluation/sample-screenshots.md)
-* [How to Grade a Forum](how-to-grade-a-forum.md)
+  * [How to Grade a Forum](ie-brown-emba-faculty/how-to-grade-a-forum.md)
 * [Online Classroom Design](online-classroom-design/README.md)
   * [Design Principles](online-classroom-design/design-principles.md)
   * [Pedagogy](online-classroom-design/pedagogy.md)
