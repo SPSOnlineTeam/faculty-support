@@ -1,6 +1,6 @@
 # Adding Files to Your Online Content
 
-You can share a number of file types, including .pdf, .xls, .doc, images \(.png, .jpg\), videos, and URLs in your content. 
+You can share a number of file types, including .pdf, .xls, .doc, .png, .jpg, .mov, and URLs in your content. 
 
 We've highlighted 3 common practices for sharing files or web pages.
 
@@ -9,7 +9,7 @@ We've highlighted 3 common practices for sharing files or web pages.
 3. Embed an Image \(png, jpg, etc.\)
 
 {% hint style="info" %}
-NOTE: The processes for linking to websites, uploading, or sharing images, videos, or text-based files are the same for all Canvas items \(e.g. discussions,  pages, assignments or announcements\).
+NOTE: The processes for linking to websites, uploading, or sharing images, videos, or text-based files are the _same_ for all Canvas items \(e.g. discussions,  pages, assignments or announcements\).
 {% endhint %}
 
 {% tabs %}
