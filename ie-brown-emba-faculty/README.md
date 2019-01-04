@@ -1,2 +1,2 @@
-# Working in Campus \(IE Brown EMBA\)
+# Working in Campus \(IE Brown EMBA Faculty\)
 
