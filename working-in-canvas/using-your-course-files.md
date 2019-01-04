@@ -1,4 +1,4 @@
-# Using Your Course Files
+# Uploading Files to Canvas
 
 As an instructor, **Files** allows you to store files within Canvas. When your course gets copied year over year, your uploaded files will move with your course. This is especially important for image files!
 
