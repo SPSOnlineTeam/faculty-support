@@ -40,6 +40,10 @@ The Canvas Inbox has a built-in address book. The Inbox system works very simila
 This is another means of communicating with students. Discussions allow you to guide students, helping them to make connections between ideas and each other. They also give you a sense of how students are thinking about the topics in the course.
 
 Engaging in discussions is an art. The goal is to encourage productive dialogue; you don’t want to dominate the discussions, but at the same time students will notice if there’s an absence of the course teaching team completely.
+
+{% hint style="info" %}
+TIP: See [**What are Canvas Discussions**](https://brown-sps-online.gitbook.io/facultyguide/working-in-canvas/discussions)?
+{% endhint %}
 {% endtab %}
 
 {% tab title="Grading/Feedback" %}
