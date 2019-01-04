@@ -24,6 +24,7 @@
   * [Sense of Community](online-classroom-design/sense-of-community.md)
   * [UDL \(Universal Design\)](online-classroom-design/udl-universal-design.md)
 * [Teaching Online](teaching-online/README.md)
+  * [Course Launch: The First Weeks](teaching-online/course-launch-the-first-weeks.md)
   * [Be a Person](teaching-online/be-a-person.md)
   * [Teaching Presence](teaching-online/teaching-presence.md)
   * [Facilitation](teaching-online/facilitation.md)
