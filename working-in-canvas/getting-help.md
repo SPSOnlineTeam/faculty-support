@@ -27,7 +27,7 @@ For questions about the **course content** or **facilitation** \(e.g., course ma
 {% endtab %}
 
 {% tab title="Executive Programs" %}
-For questions about an executive program, student issues, or scheduling, email your program's program manager at executiveprograms@brown.edu.  
+For questions about an executive program, student issues, or scheduling, email your program's program manager at [executiveprograms@brown.edu](mailto:executiveprograms@brown.edu).  
 
 For questions about the **course content** or **facilitation** \(e.g., course material, assignment & grading configuration, access, etc.\), email your dedicated Instructional Designer.  
 {% endtab %}
