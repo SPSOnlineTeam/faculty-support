@@ -16,7 +16,7 @@ Discussion pages are edited just like content \(wiki\) pages in Canvas\[link\], 
 
 ### Facilitating a Discussion
 
-Instructors and TAs create a “facilitation plan”\[link\] for a course before it runs, determining how and when they will insert themselves into the course as it runs. This normally includes monitoring discussions and providing feedback and grading for individual student effort, but it may also include posting in the discussion itself, particularly replies to selected student posts.
+Instructors and TAs create a plan for facilitating their course before it runs, determining how and when they will insert themselves into the course as it runs. This normally includes monitoring discussions and providing feedback and grading for individual student effort, but it may also include posting in the discussion itself, particularly replies to selected student posts.
 
 * Canvas discussions host two main activities: Posting of initial reply to the prompt and follow-up replies to these posts.
 * Box frames visually define two major elements of a Discussion page:
