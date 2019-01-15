@@ -11,7 +11,7 @@ By default, your Brown email address is your primary contact method in Canvas, b
 1. Click on **Account** in the left-hand sidebar. ****![](../.gitbook/assets/discussions_account_menu.png) 
 2. From the **Settings** sub-menu click on your image/placeholder to change.  
 
-![](../.gitbook/assets/discussions_settings_submenu.png)
+![](../.gitbook/assets/profile_settings_submenu.png)
 
     3. Upload a picture for your profile or take one with your webcam. Use one that reflects who you actually are \(not a logo or avatar\).  
   
@@ -30,7 +30,7 @@ Tell Canvas how often you want to be notified of specific course activity. You a
 
    [See this Canvas Guide for specific instructions on adding other contact methods.](https://guides.instructure.com/m/4152/l/719736-how-do-i-add-contact-methods-to-receive-canvas-notifications-as-an-instructor)
 
-![](../.gitbook/assets/working_in_canvas_notifications.png)
+![](../.gitbook/assets/profile_notifications.png)
 
 ###  
 

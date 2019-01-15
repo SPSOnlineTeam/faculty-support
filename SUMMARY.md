@@ -25,7 +25,7 @@
   * [Facilitation](teaching-online/facilitation.md)
   * [Your Online "Voice"](teaching-online/your-online-voice.md)
   * [Using Announcements](teaching-online/using-announcements.md)
-  * [Your Teaching Responsibilities](teaching-online/your-responsibilities.md)
+  * [Your Responsibilities](teaching-online/your-responsibilities.md)
 * [Online Classroom Design](online-classroom-design/README.md)
   * [Design Principles](online-classroom-design/design-principles.md)
   * [Pedagogy](online-classroom-design/pedagogy.md)

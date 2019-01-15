@@ -1,4 +1,4 @@
-# Your Teaching Responsibilities
+# Your Responsibilities
 
 The following practices are designed to ensure that your students: 
 
@@ -33,11 +33,11 @@ Grade assignments and/or provide detailed feedback promptly so students know how
 
 #### Suggested Idea: Offer Office Hours or Live Help Session
 
-Post "office hours" instructions so that students may request an appointment. Planned in advance, these can help connect students with each other and with you. Our instructional designers can assist with setting up logistics for these with an online conference tool like Zoom \(provided by Brown and free for you to use\). 
+Post "office hours" instructions so that students may request an appointment. Planned in advance, these can help connect students with each other and with you. Our instructional designers can assist with setting up logistics for these with an online conference tool like Zoom \(provided by Brown and free for you to use\).
 
+## Brown's Commitment to Students
 
+Brown University promises its students a rigorous, inclusive, and respectful academic experience, regardless of whether a course is offered online or in the classroom. Brown’s faculty are committed to the highest quality teaching and learning.
 
-
-
-
+Remember, unlike in a face-to-face classroom, these students don’t see your body language or hear your extemporaneous comments; and you don’t get to see their expressions of \(in\)comprehension at key moments, or their raised hands. There is only the interaction that happens through the learning management system \(LMS\), email, and other course tools; so effective use of these tools to collapse distance and promote presence becomes crucial.
 
