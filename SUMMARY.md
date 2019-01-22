@@ -1,6 +1,12 @@
 # Table of contents
 
 * [Online Faculty Guide](README.md)
+* [Online Classroom Design](online-classroom-design/README.md)
+  * [Design Principles](online-classroom-design/design-principles.md)
+  * [Pedagogy](online-classroom-design/pedagogy.md)
+  * [Sense of Community](online-classroom-design/sense-of-community.md)
+  * [UDL \(Universal Design\)](online-classroom-design/udl-universal-design.md)
+  * [Developing Learning Outcomes](online-classroom-design/developing-learning-outcomes.md)
 * [Working in Canvas](working-in-canvas/README.md)
   * [Setting Up Your Profiles and Notifications](working-in-canvas/setting-up-your-profiles-and-notifications.md)
   * [Getting Help](working-in-canvas/getting-help.md)
@@ -26,9 +32,4 @@
   * [Your Online "Voice"](teaching-online/your-online-voice.md)
   * [Using Announcements](teaching-online/using-announcements.md)
   * [Your Responsibilities](teaching-online/your-responsibilities.md)
-* [Online Classroom Design](online-classroom-design/README.md)
-  * [Design Principles](online-classroom-design/design-principles.md)
-  * [Pedagogy](online-classroom-design/pedagogy.md)
-  * [Sense of Community](online-classroom-design/sense-of-community.md)
-  * [UDL \(Universal Design\)](online-classroom-design/udl-universal-design.md)
 
