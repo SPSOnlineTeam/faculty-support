@@ -21,6 +21,7 @@
     * [Record a Screencast](working-in-canvas/uploading-files-and-photos/recording-a-screencast-video-in-canvas-media-library.md)
   * [Uploading Files to Canvas](working-in-canvas/using-your-course-files.md)
 * [Working in Campus \(IE Brown EMBA Faculty\)](ie-brown-emba-faculty/README.md)
+  * [How to Respond to Threads](ie-brown-emba-faculty/how-to-respond-to-threads.md)
   * [Create and Save or Publish a Thread in Four Step](ie-brown-emba-faculty/create-and-save-or-publish-a-thread-in-four-step/README.md)
     * [How to Change a Thread to “Read Only”](ie-brown-emba-faculty/create-and-save-or-publish-a-thread-in-four-step/how-to-change-a-thread-to-read-only.md)
   * [Grading Guidance](ie-brown-emba-faculty/assessment-and-evaluation/README.md)
