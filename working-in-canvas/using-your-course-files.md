@@ -8,9 +8,17 @@ You can upload one or multiple files, view details about your files, preview fil
 TIP: Come up with an organized file structure so you can find and archive your files in this area otherwise it can become unwieldy!
 {% endhint %}
 
-![Files are disorganized and not in folders. ](https://lh3.googleusercontent.com/7nPYadUtIpzOzVuiB-D3NG4fTDyOiMG2o6iAiDtot2BZMULmu-w4r-60VStOy5gEpYIN3THCty-HJoNU-5IkejboYnYeuuHcFMyBpd0asoLzO_72iQrPMbbw2d3g5hjpvmTEI49C)
+```text
+Disorganized Files and Folders
+```
 
-![Files are organized in well-named folders.](https://lh4.googleusercontent.com/9g9vRs5BsPtI_s8TsUzrm3N1nlypubBlakhRzZdYzCpcd3RndOarhNxmHU6jIiY5MEUn9QJ-5kx7yiP2bJwGgT1UFAY7B7cvwydUZhez6UPdRRdwLHPLkfzTzLphnn6jKeUuEZEx)
+![disorganized  files and folders](https://lh3.googleusercontent.com/7nPYadUtIpzOzVuiB-D3NG4fTDyOiMG2o6iAiDtot2BZMULmu-w4r-60VStOy5gEpYIN3THCty-HJoNU-5IkejboYnYeuuHcFMyBpd0asoLzO_72iQrPMbbw2d3g5hjpvmTEI49C)
+
+```text
+Organized Folders and Files
+```
+
+![organized folders and files](https://lh4.googleusercontent.com/9g9vRs5BsPtI_s8TsUzrm3N1nlypubBlakhRzZdYzCpcd3RndOarhNxmHU6jIiY5MEUn9QJ-5kx7yiP2bJwGgT1UFAY7B7cvwydUZhez6UPdRRdwLHPLkfzTzLphnn6jKeUuEZEx)
 
 ![](../.gitbook/assets/files_navigate.png)
 
