@@ -9,7 +9,9 @@ We've highlighted 3 common practices for sharing files or web pages.
 3. Embed an Image \(png, jpg, etc.\)
 
 {% hint style="info" %}
-NOTE: The processes for linking to websites, uploading, or sharing images, videos, or text-based files are the _same_ for all Canvas items \(e.g. discussions,  pages, assignments or announcements\).
+NOTE: Use the same process for linking to websites, uploading, or sharing images, videos, or text-based files for all Canvas page types \(e.g. discussions, pages, assignments or announcements\). 
+
+🚩 To add files to online content, you must be actively editing the Canvas page. 
 {% endhint %}
 
 {% tabs %}
@@ -34,7 +36,7 @@ Click the link icon and paste the URL in the space provided.
 ### Link to a File in an Announcement 
 
 1. Click on the **Announcements** button on the left-hand side of your course site, and then click **+ Announcement** to draft your message. 
-   * Your announcement message should describe the file you are sharing so students know what it is; \(e.g. "Please review the excel spreadsheet with the correct formulas to check your work."\). __
+   * The announcement message should specifically mention file you are sharing so students know what it is. \(e.g.; "_Please review the excel spreadsheet with the correct formulas to check your work._"\). __
 2. Highlight the **text to link**, and then select the **Files** tab and click on your excel file. 
 
 ![](../../.gitbook/assets/adding-files_announcement.png)
