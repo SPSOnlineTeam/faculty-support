@@ -22,6 +22,14 @@ Announcements can be used to:
 You can access the announcements for a course by clicking the “Announcements” link in the left-hand navigation.
 
 ![](../.gitbook/assets/announcements_navigation.png)
+
+#### Announcement Options 
+
+Announcements allow you to select various options for how and when you would like to post them.
+
+![](https://lh6.googleusercontent.com/vyKJexbPRT9mDCsg_vzHLBYfqJ4W9PVU0bC-d7bY0KgW-4G-M7Ve4U7DN7cu9XLlnhj1DUQcT-GZzpME0If6kvI3BGCyZ7NctKHpVbuT3cAaBwbUAvFM-uc0UUY0k4r0dla4qLMi)
+
+Options like “Delay posting” are useful if you want to post an announcement at a particular time but are not able to do so -- just set it and forget it!  And if you want students to respond to your announcement, select “Allow users to comment.” **To post your announcement, select “Save.”**
 {% endtab %}
 
 {% tab title="Inbox" %}
@@ -57,5 +65,5 @@ The final means of communicating with students is through grading and feedback. 
 {% endtab %}
 {% endtabs %}
 
-
+### 
 
