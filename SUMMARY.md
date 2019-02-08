@@ -32,8 +32,8 @@
 * [Teaching Online](teaching-online/README.md)
   * [Your Responsibilities](teaching-online/your-responsibilities.md)
   * [Teaching Presence](teaching-online/teaching-presence.md)
-  * [Facilitation](teaching-online/facilitation.md)
-  * [Course Launch: The First Weeks](teaching-online/course-launch-the-first-weeks.md)
+  * [Facilitation](teaching-online/facilitation/README.md)
+    * [Course Launch: The First Weeks](teaching-online/facilitation/course-launch-the-first-weeks.md)
   * [Your Online "Voice"](teaching-online/your-online-voice.md)
   * [Using Announcements](teaching-online/using-announcements.md)
 
