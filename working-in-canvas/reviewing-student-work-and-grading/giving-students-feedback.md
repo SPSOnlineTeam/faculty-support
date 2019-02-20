@@ -7,7 +7,7 @@ Giving feedback to students can be done in three ways.
 3. Annotating a document directly 
 
 {% tabs %}
-{% tab title="1. Feedback from assignment Comments" %}
+{% tab title="1. Feedback from assignment comments" %}
 To provide feedback through assignment comments, simply put your comments in the assignment comments field in SpeedGrader.
 
 This is located on the right-hand side of the screen. Once you have done so, a notification will be sent to the student. Students can respond to your comments as well. Please note you can also offer comments via audio or video file.
