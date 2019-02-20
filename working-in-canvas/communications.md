@@ -23,6 +23,10 @@ You can access the announcements for a course by clicking the â€œAnnouncementsâ€
 
 ![](../.gitbook/assets/announcements_navigation.png)
 
+Then click the + Announcement button.
+
+![](../.gitbook/assets/announcements_create.png)
+
 #### Announcement Options 
 
 Announcements allow you to select various options for how and when you would like to post them.
