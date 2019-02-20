@@ -11,7 +11,7 @@ Canvas has four ways faculty can communicate with students:
 {% tab title="Announcements" %}
 #### Announcements
 
-Announcements can serve various purposes. You should use them to post information that you feel all students should be immediately notified. What this information is can be up to you, and you can use it to enhance your instructor presence.
+Announcements can serve various purposes. You should use them to post information that you feel all students should be immediately notified of. What this information is can be up to you, and you can use it to enhance your instructor presence.
 
 Announcements can be used to:
 
@@ -57,7 +57,7 @@ TIP: See [**What are Canvas Discussions**](https://brown-sps-online.gitbook.io/f
 {% tab title="Grading/Feedback" %}
 #### Grading/Feedback
 
-The final means of communicating with students is through grading and feedback. Feedback especially helps students keep track of their progression through the course and a sense of how they are doing. Through the Gradebook, Canvas has many options for providing feedback:
+The final means of communicating with students is through grading and feedback. Feedback especially helps students keep track of their progression through the course and gives a sense of how they are doing. Through the Gradebook, Canvas has many options for providing feedback:
 
 * Overall assignment comment 
 * Document markup so you can provide specific comments to sections/sentences/words \(this works very similarly to the Word markup tools\) 
