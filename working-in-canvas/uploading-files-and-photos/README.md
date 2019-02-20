@@ -36,7 +36,7 @@ Click the link icon and paste the URL in the space provided.
 ### Link to a File in an Announcement 
 
 1. After navigating to **Announcements** on the left-hand side of your course site, click **+ Announcement** to draft your message. 
-   * The announcement message should specifically mention file you are sharing so students know what it is. \(e.g.; "_Please review the excel spreadsheet with the correct formulas to check your work._"\). __
+   * The announcement message should specifically mention the file you are sharing so students know what it is. \(e.g.; "_Please review the excel spreadsheet with the correct formulas to check your work._"\). __
 2. Highlight the **text to link**, and then select the **Files** tab and click on your excel file. 
 
 ![](../../.gitbook/assets/adding-files_announcement%20%281%29.png)
@@ -44,7 +44,7 @@ Click the link icon and paste the URL in the space provided.
 3. Click **Save** on your announcement to post in the course.
 
 {% hint style="info" %}
-TIP: You may also add a file as an attachment to an announcement but it less visible to the viewer because it appears below the announcement text.
+TIP: You may also add a file as an attachment to an announcement but it is less visible to the viewer because it appears below the announcement text.
 {% endhint %}
 {% endtab %}
 
