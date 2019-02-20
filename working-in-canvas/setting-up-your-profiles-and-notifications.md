@@ -1,4 +1,4 @@
-# Setting Up Your Profiles and Notifications
+# Setting Up Your Profile and Notifications
 
 ### What is a Canvas profile? 
 
