@@ -4,7 +4,7 @@
 
 Your Canvas profile includes your name, image, contact information, time zone, and language. Your profile image is important because students and teachers want to know they are communicating with a person in Canvas, not just text. It humanizes the interface, personalizes your posts and submissions, and makes clear to students with whom they are communicating.  
   
-By default, your Brown email address is your primary contact method in Canvas, but you can add other email and a phone number for text messages. By default, the time zone for your Canvas account is ET. If you are living/working outside the ET time zone, you might want to change this. You cannot change your name in Canvas, however, without changing it with the University \(in Banner\).
+By default, your Brown email address is your primary contact method in Canvas, but you can add other emails and a phone number for text messages. By default, the time zone for your Canvas account is ET. If you are living/working outside the ET \(Eastern Time\) time zone, you might want to change this. If you wish to change your name in Canvas, you must change it with the University in Banner. 
 
 #### Updating your profile
 
