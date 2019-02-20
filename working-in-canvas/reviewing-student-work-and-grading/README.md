@@ -24,7 +24,7 @@ To change how information is arranged in the gradebook, simply click on the gear
 You will be able to hide student names, arrange columns by due date, points, assignment groups, and other categories.
 
 {% hint style="info" %}
-TIP: Instructors find the “due date view” most helpful. To arrange the grade book items by due date, click the “Arrange column by due date” option.
+TIP: Instructors find the "due date" most helpful. To arrange the grade book items by due date, click the “Arrange columns by due date” option.
 {% endhint %}
 
 ### Finding a Resubmission 
