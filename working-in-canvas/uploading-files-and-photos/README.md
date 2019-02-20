@@ -9,7 +9,7 @@ We've highlighted 3 common practices for sharing files or web pages.
 3. Embed an Image \(png, jpg, etc.\)
 
 {% hint style="info" %}
-NOTE: Use the same process for linking to websites, uploading, or sharing images, videos, or text-based files for all Canvas page types \(e.g. discussions, pages, assignments or announcements\). 
+NOTE: Use the same process for linking to websites and uploading or sharing images, videos, or text files for all Canvas page types \(e.g. discussions, pages, assignments or announcements\). 
 
 🚩 To add files to online content, you must be actively editing the Canvas page. 
 {% endhint %}
@@ -69,7 +69,7 @@ TIP: You may also add a file as an attachment to an announcement but it less vis
 
 ### Need to add a file to Canvas? 
 
-If you have not uploaded the file to your Canvas course yet, you need to click **+ Upload a new file** to one of your folders in the Files area. To learn more, visit: [Using Your Course Files](../using-your-course-files.md).
+If you have not uploaded the file to your Canvas course yet, you need to click **+ Upload a new file** to one of your folders in the Files area. To learn more, visit: [Uploading Files to Canvas](../using-your-course-files.md).
 
 ![](../../.gitbook/assets/adding-files_upload-a-new-file.png)
 
