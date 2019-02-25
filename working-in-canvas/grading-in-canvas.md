@@ -34,10 +34,10 @@ TIP: ****Speedgrader offers an easy way for you to review student assignment and
 
 1. Assignment Comments
 
-   a. Generates _\*\*_notifications to students
+   a. Generates [notifications](https://brown-sps-online.gitbook.io/facultyguide/~/edit/drafts/-LZ_NGBGK7OWeMjd8Aao/working-in-canvas/setting-up-your-profiles-and-notifications) to students
 
    b. Notice the audio/video file upload options  
-   c. Students can reply to you! \(where do faculty see these?\)
+   c. Students can reply to your comments.
 
 2. Filling in a grade
 
