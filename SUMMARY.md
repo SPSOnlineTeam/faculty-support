@@ -30,7 +30,7 @@
   * [UDL \(Universal Design\)](online-classroom-design/udl-universal-design.md)
   * [Developing Learning Outcomes](online-classroom-design/developing-learning-outcomes.md)
 * [Teaching Online](teaching-online/README.md)
-  * [Your Responsibilities](teaching-online/your-responsibilities.md)
+  * [Primary Responsibilities](teaching-online/your-responsibilities.md)
   * [Teaching Presence](teaching-online/teaching-presence.md)
   * [Facilitation](teaching-online/facilitation/README.md)
     * [Course Launch: The First Weeks](teaching-online/facilitation/course-launch-the-first-weeks.md)

@@ -1,4 +1,4 @@
-# Your Responsibilities
+# Primary Responsibilities
 
 The following practices are designed to ensure that your students: 
 
