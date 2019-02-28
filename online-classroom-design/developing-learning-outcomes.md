@@ -3,25 +3,26 @@
 ### **Course-Level Student Learning Outcomes**
 
 Course learning outcomes answer the question:   
+  
 __What will students be able to **do** as a result of this course? \*
 
 Learning outcomes communicate expectations, structure learning, and guide instruction and assessment. Students benefit from courses that include a range of cognitive processes, from relatively simple tasks like remembering or understanding information to more complex thinking, such as critically analyzing information, completing a project, or creating new knowledge. Consider how you might incorporate activities involving a variety of [thinking skills](http://brown.edu/academics/professional/onlinelearning/img/ThinkSkills.pdf). The [Sheridan Center](https://www.brown.edu/sheridan/teaching-learning-resources/teaching-resources/course-design/establishing-learning-goals) also provides a guide for establishing learning goals.  
   
 Course outcome statements should\*\*
 
-* be student-centered rather than instructor- or content-centered,
-* articulate what students should be able to do after completing the course,
-* focus on the learning that results from the course rather than describing activities or lessons,
-* be most critical to success in the course \(more detailed objectives can be developed for individual modules\),
+* be _student-centered_ rather than instructor- or content-centered,
+* articulate what students should be able to do _after_ completing the course,
+* focus on the learning that _results_ from the course rather than describing activities or lessons,
+* be _most critical_ to success in the course \(more detailed objectives can be developed for individual modules\),
 * focus on overarching or general knowledge and/or skills,
-* incorporate various ways for students to actively show success \(outlining, describing, modeling, depicting, etc.\) rather than using a single statement, such as “at the end of the course, students will understand \_\_\_\_\_\_\_ “.
-
-#### **Examples**
+* incorporate various ways for students to _actively show_ success \(outlining, describing, modeling, depicting, etc.\) rather than using a single statement, such as “at the end of the course, students will understand \_\_\_\_\_\_\_ “.
 
 Many faculty have found the following construct helpful:     
 **Students should be able to... \(+ action\) \(+ resulting evidence\).**
 
-_Students will be able to think critically and analytically by \(1\) evaluating observational and experimental data, \(2\) evaluating interpretation of data, and \(3\) empirically assessing hypotheses about animal behavior._
+#### **Example**
+
+* _Students will be able to think critically and analytically by \(1\) evaluating observational and experimental data, \(2\) evaluating interpretation of data, and \(3\) empirically assessing hypotheses about animal behavior._
 
 ### **Module Learning Outcomes**
 
