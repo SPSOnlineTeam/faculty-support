@@ -34,7 +34,7 @@
   * [Teaching Presence](teaching-online/teaching-presence.md)
   * [Facilitation](teaching-online/facilitation/README.md)
     * [Course Launch: The First Weeks](teaching-online/facilitation/course-launch-the-first-weeks.md)
-  * [Discussion Facilitation Strategies](teaching-online/untitled.md)
+  * [Discussion Facilitation Strategies](teaching-online/discussion-facilitation.md)
   * [Using Announcements](teaching-online/using-announcements.md)
   * [Suggested Resources](teaching-online/suggested-resources.md)
 
