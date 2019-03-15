@@ -4,17 +4,17 @@
 
 Teaching presence in an online course is about the students’ sense that you’re there in the course, and you’re a real person interacting with them.
 
-Your teaching in a physical classroom involves more than just your content - you’re there to greet, challenge, coach, scold, inspire, remind and encourage students. In an online course, these factors are as important as in a classroom course - though they are accomplished differently.  The most important thing is that you “feel” real to the students during the course.  
+Your teaching in a physical classroom involves more than just your content- you’re there to greet, challenge, coach, scold, inspire, remind and encourage students. In an online course, these factors are as important as in a classroom course - though they are accomplished differently.  The most important thing is that you “feel” real to the students during the course.  
   
 As one professor summed up the idea, “prove you’re not a robot!”  
 
 ### Why should I care? 
 
-1. Your course isn’t just your content, it’s you creating an environment that fosters learning \(just like you do in the classroom\). 
+1. Your course isn’t just your content: it’s you creating an environment that fosters learning \(just like you do in the classroom\). 
 2. A little thought about presence makes the most efficient use of your teaching time, while increasing impact on students.  
 
-   a. Also can reduce student questions by providing context, setting the stage, for lessons  
-   b. With some planning, possible to do less while seeming more present, make more impact,
+   a. It can reduce student questions by providing context and setting the stage for lessons  
+   b. With some planning, it is possible to do less while seeming more present and making an impact
 
 3. Your presence increases student engagement, which leads to both learning and satisfaction. 
 
@@ -34,7 +34,7 @@ In your announcement, “speak” to your students like you would in the classro
 
 While you’re at it, be sure to pay attention to your tone. We often write differently than we talk \(for good reason\). But remember that this periodic Announcement process is analogous to talking with students, say, at the start of class or during a lively class discussion. You might want to keep your tone more conversational here and save more formal language for the course content and grading. 
 
-As an alternative \(or a complement\) to writing, video can be a great tool for these weekly updates. A quick webcam recording can be less time-consuming than crafting a written message, if you’re so inclined. Panopto provides a way to do this - see \[xyz\] for instructions, or give us a call and we’ll help you get set up.
+As an alternative \(or a complement\) to writing, video can be a great tool for these weekly updates. A quick webcam recording can be less time-consuming than crafting a written message, if you’re so inclined. Panopto provides a way to do this - see Record a Screencast for instructions, or give us a call and we’ll help you get set up.
 {% endtab %}
 
 {% tab title="Grade Promptly" %}
