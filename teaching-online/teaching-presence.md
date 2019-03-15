@@ -34,7 +34,7 @@ In your announcement, “speak” to your students like you would in the classro
 
 While you’re at it, be sure to pay attention to your tone. We often write differently than we talk \(for good reason\). But remember that this periodic Announcement process is analogous to talking with students, say, at the start of class or during a lively class discussion. You might want to keep your tone more conversational here and save more formal language for the course content and grading. 
 
-As an alternative \(or a complement\) to writing, video can be a great tool for these weekly updates. A quick webcam recording can be less time-consuming than crafting a written message, if you’re so inclined. Panopto and Canvas provide ways to do this - see Record a Screencast or [Record and Upload Media](https://brown-sps-online.gitbook.io/facultyguide/working-in-canvas/uploading-files-and-photos/recording-and-uploading-media-with-canvas-media-recorder) for instructions.
+As an alternative \(or a complement\) to writing, video can be a great tool for these weekly updates. A quick webcam recording can be less time-consuming than crafting a written message, if you’re so inclined. Panopto and Canvas provide ways to do this - see [Record a Screencast](https://brown-sps-online.gitbook.io/facultyguide/working-in-canvas/uploading-files-and-photos/recording-a-screencast-video-in-canvas-media-library) or [Record and Upload Media](https://brown-sps-online.gitbook.io/facultyguide/working-in-canvas/uploading-files-and-photos/recording-and-uploading-media-with-canvas-media-recorder) for instructions.
 {% endtab %}
 
 {% tab title="Grade Promptly" %}
