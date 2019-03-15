@@ -6,7 +6,13 @@ You can create Canvas Media Recordings in announcements, assignments, discussion
 
 ### Record New Media
 
-Make sure that Adobe Flash is enabled on your web browser. You may use these instructions if you are unsure of how [download](https://get.adobe.com/flashplayer/) and [enable](https://www.drivereasy.com/knowledge/enable-flash-on-chrome-firefox-opera-and-edge-on-windows-10/) Flash.
+Make sure that Adobe Flash is enabled on your web browser. 
+
+{% hint style="info" %}
+**TIP**: Instructions to [download](https://get.adobe.com/flashplayer/) and [enable](https://www.drivereasy.com/knowledge/enable-flash-on-chrome-firefox-opera-and-edge-on-windows-10/) Flash.
+{% endhint %}
+
+
 
 1. Select the Media Comment Tool from the \(A\) formatting bar or \(B\) Speedgrader. 
 
@@ -22,7 +28,7 @@ Make sure that Adobe Flash is enabled on your web browser. You may use these ins
 
 ![Enable Adobe Flash Player to access your camera and microphone](https://lh4.googleusercontent.com/BVuSsOp1JgDcD360-vJgBC1v2E8h0X6pjO7OdiH2sjqREYPOiW99rQZ1e1jnrbWt7zxKb-wWzLizIPK1RU3qdTGn2UD-iKTy2_rBkDgKlUVMBMcwvFLgs2z1QtOnrciLjvpgZkgW)
 
-3. Select the **webcam** icon to record a video or the **microphone** icon to record audio \(the example below shows how to record a video\) and then click anywhere on the screen to begin recording and again to stop.
+3. Select the **webcam** icon to record a video or the **microphone** icon to record audio \(the example below shows how to record a video\) and then click anywhere on the screen to begin recording.
 
 ![Record Media](https://lh4.googleusercontent.com/CxQXnejQnoZ6s6v8nRe0BFS0V6vhqbWGe4CWjq0g0Y98Yj6kx561tTAN3kCPsdI09bgQIAdBWmBKR4Uu2qbtmuzaHZhRjaqNQENEbl9PfyvG1Mk_rHUGRrFMW_3qSuNnpBCVFYfP)
 
