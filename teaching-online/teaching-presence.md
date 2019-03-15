@@ -42,7 +42,7 @@ One way to show students that you’re involved is to grade student work, includ
 {% endtab %}
 
 {% tab title="Acknowledge Interesting Discussions" %}
-Your course may have student discussions as part of the design. You don’t have to respond to each and every student, but you can show that you’re involved by summarizing and/or responding to key points in the discussion tool, or sometimes better, in an announcement \(which makes it stand out from student posts and is harder for students to miss\). 
+Your course may have student discussions as part of the design. You don’t have to respond to each and every student, but you can show that you’re involved by summarizing and/or responding to key points in the discussion tool, or in an announcement \(which makes it stand out from student posts and is harder for students to miss\). 
 {% endtab %}
 {% endtabs %}
 
