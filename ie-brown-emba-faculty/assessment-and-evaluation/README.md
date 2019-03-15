@@ -24,9 +24,10 @@ Use this section to:
 
 In order to prevent grade inflation, faculty are required to make sure the **average grade for their course does not exceed 3.32 \(B\)**.  At the beginning of the program, students are informed of these requirements.
 
-Thus, we recommend that you use the program grading scale to set up your evaluation criteria and track student progress.
+Please note the following grade scale for the program, as well as the criteria for each grade.  
 
-#### **REFERENCE: Grade Scale**
+
+#### **IE Brown EMBA Grade Scale**
 
 | Grade | GPA Scale | Defined As |
 | :--- | :--- | :--- |
@@ -43,26 +44,27 @@ Thus, we recommend that you use the program grading scale to set up your evaluat
 
 Making use Campus’ Grade Center will save you time. Unless the faculty and ID have implemented another tracking system, your Grade Center will be set up with:
 
-* designated columns for each assessment. You may share scores and feedback. Columns are hidden to students before grading so instructors have to unhide them to show grades to students.
+* designated columns for each assessment. Columns are hidden to students before grading so instructors have to unhide them to show grades to students.
   * [How do I grade assignments in Grade Center?](http://www.screencast.com/t/sUfrlnG9qrM4)
-* a hidden weighted grade column to track your students’ overall weighted percentage and letter grade.
+* a hidden total points column to track your students’ grades.
 
 ### **The IE Brown Grading Sheet**
 
 The grading sheet is an Excel spreadsheet with your student roster and a grade inflation calculator. The Program Management Team will send you grading sheets for each section \(M-1 and M-2\).
 
-### **Grade as You Go**
+### **Grading as You Go**
 
-You may use the IE Brown grading sheet as a "calculator" to check grade inflation before releasing grades. All columns are hidden from student view so you may enter grades and use the calculator to make adjustments.
+Use the IE Brown grading sheet as a calculator to check grade inflation before releasing grades. All columns are hidden from student view so you may enter grades and use the calculator to make adjustments.  
+
 
 {% hint style="info" %}
 **TIP**: Before you “unhide” assignment or participation grades, use the Grading Sheet "calculator" to check the grade average \(3.32 or below\).
 {% endhint %}
 
-👀 [**See detailed screenshots here**](https://brown-sps-online.gitbook.io/facultyguide/ie-brown-emba-faculty/assessment-and-evaluation/sample-screenshots)**.**
+👀 [**See detailed images here**](https://brown-sps-online.gitbook.io/facultyguide/ie-brown-emba-faculty/assessment-and-evaluation/sample-screenshots)**.**
 
 1. Open Grade Center to assign student scores.
-2. Get the letter grade from the weighted column in Grade Center.
+2. Translate the total score into a letter grade.
 3. Use your grading sheet “calculator”, type the letter grade in the Final Grade column.
 4. If you have grade inflation, you may adjust your grade distribution or threshold to achieve the 3.32 average or below.
 5. Update your assignment score in Grade Center and then you may “show” scores to students.  

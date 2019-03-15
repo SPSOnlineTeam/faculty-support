@@ -19,7 +19,7 @@
   * [Create and Save or Publish a Thread in Four Step](ie-brown-emba-faculty/create-and-save-or-publish-a-thread-in-four-step/README.md)
     * [How to Change a Thread to “Read Only”](ie-brown-emba-faculty/create-and-save-or-publish-a-thread-in-four-step/how-to-change-a-thread-to-read-only.md)
   * [Grading Guidance](ie-brown-emba-faculty/assessment-and-evaluation/README.md)
-    * [Sample Screenshots](ie-brown-emba-faculty/assessment-and-evaluation/sample-screenshots.md)
+    * [Images - Grade as You Go](ie-brown-emba-faculty/assessment-and-evaluation/sample-screenshots.md)
     * [Grade as you go!](ie-brown-emba-faculty/assessment-and-evaluation/grade-as-you-go.md)
   * [How to Grade a Forum](ie-brown-emba-faculty/how-to-grade-a-forum.md)
 * [Online Classroom Design](online-classroom-design/README.md)

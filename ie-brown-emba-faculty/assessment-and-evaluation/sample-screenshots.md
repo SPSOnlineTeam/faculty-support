@@ -1,12 +1,12 @@
-# Sample Screenshots
+# Images - Grade as You Go
 
 ### Grade as You Go 
 
 Before you “unhide” assignment or participation grades, use the Grading Sheet “calculator” to check the grade average \(3.32 or below\). 
 
-1. Assign students' scores in the Grade Center. 
+1. Open the Grade Center to assign students' scores. 
 
-2. Get the letter grade from the weighted column in Grade Center
+2. Calculate the letter grade based on the total score from Grade Center.
 
 ![](../../.gitbook/assets/skinny-grade-gitbook.png)
 
@@ -16,9 +16,7 @@ Before you “unhide” assignment or participation grades, use the Grading Shee
 
 ![](../../.gitbook/assets/copy-of-template-for-faculty-development-screenshot-annotations-2.png)
 
-#### PDF of Screenshots
-
-{% file src="../../.gitbook/assets/emba-grade-as-you-go \(1\).pdf" caption="Screenshots" %}
+#### 
 
 
 
