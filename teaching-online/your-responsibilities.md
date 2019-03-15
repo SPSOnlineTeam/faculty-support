@@ -39,5 +39,5 @@ Post "office hours" instructions so that students may request an appointment. Pl
 
 Brown University promises its students a rigorous, inclusive, and respectful academic experience, regardless of whether a course is offered online or in the classroom. Brown’s faculty are committed to the highest quality teaching and learning.
 
-Remember, unlike in a face-to-face classroom, these students don’t see your body language or hear your extemporaneous comments; and you don’t get to see their expressions of \(in\)comprehension at key moments, or their raised hands. There is only the interaction that happens through the learning management system \(LMS\), email, and other course tools; so effective use of these tools to collapse distance and promote presence becomes crucial.
+Unlike in your face-to-face classroom, the online classroom prevents students from seeing your body language or hearing your extemporaneous comments; likewise, you don’t get to see their expressions of \(in\)comprehension at key moments or notice their raised hands. There is only the interaction that happens through the learning management system \(LMS\), email, and other course tools– effective use of these tools to collapse distance and promote presence becomes crucial.
 
