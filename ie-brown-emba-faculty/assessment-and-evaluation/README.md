@@ -70,7 +70,7 @@ Use the IE Brown grading sheet as a calculator to check grade inflation before r
 ## **Submit your Final Grades**
 
 {% hint style="info" %}
-**NOTE**: Where an average course grade is above the 3.32 \(B\) level you will be asked to provide justification in light of the criteria and procedures stated in your syllabus for program management to review.
+**NOTE**: When an average course grade is above the 3.32 \(B\) level you will be asked to provide justification in light of the criteria and procedures stated in your syllabus for program management to review.
 {% endhint %}
 
 Send your final IE Brown Grading Sheet to the program coordinator, program manager, and academic director two weeks from your final deliverable due date or session end date \(whichever is later\)
