@@ -41,7 +41,7 @@ Please note the following grade scale for the program, as well as the criteria f
 
 ## **Save Time– Use the Grade Center**
 
-Making use Campus’ Grade Center will save you time. Unless the faculty and ID have implemented another tracking system, your Grade Center will be set up with:
+Making use of Campus’ Grade Center will save you time. Unless the faculty and ID have implemented another tracking system, your Grade Center will be set up with:
 
 * designated columns for each assessment. Columns are hidden to students before grading so instructors have to unhide them to show grades to students.
   * [How do I grade assignments in Grade Center?](http://www.screencast.com/t/sUfrlnG9qrM4)
