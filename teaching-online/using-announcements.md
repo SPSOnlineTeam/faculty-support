@@ -2,7 +2,7 @@
 
 ### Announcements 
 
-Announcements can serve various purposes. You should use them to post information that you feel all students should be immediately notified. What this information is can be up to you, and you can use it to enhance your instructor presence.
+Announcements can serve various purposes. You should use them to post information that you feel all students should be immediately notified of. What this information is can be up to you, and you can use it to enhance your instructor presence.
 
 Announcements can be used:
 
