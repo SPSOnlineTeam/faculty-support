@@ -24,7 +24,7 @@ NOTE: If you have Panopto installed on your computer, the Panopto media recorder
 
 * Prepare your microphone. Use a headset or earbud mic instead of the computer's built-in mic, if possible.
 * Select your Secondary Source 1 and you can start recording!
-* To finish recording the presentation, press the Esc key on your keyboard, and then click on the Stop button \(where the Record button was located earlier\)
+* To finish recording the presentation, press the Esc key on your keyboard, and then click on the Stop button.
 
 ![](../../.gitbook/assets/screencast_panopto-recorder.png)
 
@@ -32,7 +32,7 @@ NOTE: If you have Panopto installed on your computer, the Panopto media recorder
 
 ![](https://lh5.googleusercontent.com/MxqRmcxZcp-HkS_oQNF7eH54kNGUWbEwl2Z8X_Wo-xDhmgAcuzFX75WZVO1Wx93M-qh2tRcTb289zrSvyvJm0zoyIMQmFKarUt4lYTwq8WJPP1VmFCDBsiBTQo7r2sn7u6uEoTDi)
 
-Once processing is complete, you may close the Panopto recorder. Your screencast file will automatically be uploaded to your course's media library. You can edit your screencast; e.g. cut portions. [Be sure to visit Brown's IT Knowledgebase for information about editing screencasts.](https://ithelp.brown.edu/kb/articles/basic-editing-in-panopto)
+Once processing is complete, you may close the Panopto recorder. Your screencast file will automatically be uploaded to your course's media library. You can edit your screencast \(e.g. cut portions\). [Be sure to visit Brown's IT Knowledgebase for information about editing screencasts.](https://ithelp.brown.edu/kb/articles/basic-editing-in-panopto)
 
 ![](../../.gitbook/assets/screencast_edit%20%281%29.png)
 
