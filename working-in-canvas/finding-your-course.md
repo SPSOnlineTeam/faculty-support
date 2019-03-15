@@ -18,7 +18,7 @@ You will see a list of your courses, including past enrollments. Star the course
 
 ![](../.gitbook/assets/finding-your-courses_star-dashboard.png)
 
-You should now see the courses listed under “Courses,” and when you go back to your Dashboard, you will see them there as well. If you want more courses to appear, or make some disappear, just go back to “All Courses” and select, or deselect, the courses.
+You should now see the selected courses listed under “Courses” and on your Dashboard as well. You can select and unselect courses anytime by clicking on “All Courses” again.
 
 ![](https://lh6.googleusercontent.com/POC7cyD8JwVDprs5kxXMcL2Nxh1bC8kIvZepjFMWidn-L5EK4EnjqhNqzus3zQwIfc-AxdYxzLa1VSKR5-Lf0v5Y4neGs8AYjggIWJYJWeOpLMjxWj15csdGOVxnMVRNQ43BrQOk)
 
