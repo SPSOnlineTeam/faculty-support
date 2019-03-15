@@ -17,7 +17,9 @@ A **screencast** is a digital recording of what a person does on their computerâ
 ![](../../.gitbook/assets/screencast_create-recording.png)
 
 {% hint style="info" %}
-NOTE: If you have Panopto installed on your computer, the Panopto media recorder should open up. If you do not, you will be prompted to install the correct version for your operating system \(OS\) using your Brown credentials. After installing, open Panopto.![](https://lh6.googleusercontent.com/fSj5lvmeOyBAj5h_ztC2U0sk1EaZ2FdTLnm7a6CCNs1dVT0Jt0ADhibYd0EkjWojJLQKWS3K72-vYBn9oYCI5s-3ipVXGiAYudaKBGvsHOr_FaRXvfZC5aMP4dPat5Bbws6OTBnS)
+NOTE: If you have Panopto installed on your computer, the Panopto media recorder should open up. If you do not, you will be prompted to install the correct version for your operating system \(OS\) using your Brown credentials. After installing, open Panopto.
+
+![](https://lh6.googleusercontent.com/fSj5lvmeOyBAj5h_ztC2U0sk1EaZ2FdTLnm7a6CCNs1dVT0Jt0ADhibYd0EkjWojJLQKWS3K72-vYBn9oYCI5s-3ipVXGiAYudaKBGvsHOr_FaRXvfZC5aMP4dPat5Bbws6OTBnS)
 {% endhint %}
 
 3. The Panopto media recorder window is simple. Make a few selections and you're ready to record your presentation.
