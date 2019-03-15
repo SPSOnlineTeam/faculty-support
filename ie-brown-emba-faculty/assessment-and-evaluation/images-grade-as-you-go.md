@@ -9,7 +9,7 @@ Before you “unhide” assignment or participation grades, use the Grading Shee
 
 ![](../../.gitbook/assets/skinny-grade-gitbook.png)
 
-1. Use your grading sheet “calculator”: type the letter grade in the Final Grade column.
+1. Using your grading sheet “calculator,” type the letter grade in the Final Grade column.
 2. If you have grade inflation, you may adjust your grade distribution or threshold to achieve the 3.32 average or below.
 
 ![](../../.gitbook/assets/copy-of-template-for-faculty-development-screenshot-annotations-2.png)
