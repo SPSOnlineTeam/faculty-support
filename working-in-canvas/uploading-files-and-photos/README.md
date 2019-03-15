@@ -6,7 +6,7 @@ We've highlighted 3 common practices for sharing files or web pages.
 
 1. Add a Video URL
 2. Link a File \(xls, pdf, doc, ppt, etc.\)
-3. Embed an Image \(png, jpg, etc.\)
+3. Add an Image \(png, jpg, etc.\)
 
 {% hint style="info" %}
 NOTE: Use the same process for linking to websites and uploading or sharing images, videos, or text files for all Canvas page types \(e.g. discussions, pages, assignments or announcements\). 
@@ -48,11 +48,11 @@ TIP: You may also add a file as an attachment to an announcement but it is less 
 {% endhint %}
 {% endtab %}
 
-{% tab title="Embed an Image" %}
-### Embed an Image in an Assignment
+{% tab title="Add an Image" %}
+### Add an Image 
 
 1. Download the image file to your computer. 
-2. Edit the assignment page and place your cursor where you’d like to insert the image file.
+2. Edit the Canvas page and place your cursor where you’d like to insert the image file.
 
 ![](../../.gitbook/assets/adding-files_image.png)
 
