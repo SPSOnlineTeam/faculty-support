@@ -12,18 +12,13 @@
 
 ![](https://lh4.googleusercontent.com/fyRZQOH6mJXuK-6bYGnLrR4JttnnjcbF9xkNCturnIPcGfW-f-1_dJuUk2Hp02JQrVA9oGnJB1PIIRu3UZi8z28TQna74uq2-vmkgzcDr349yukPSgJllLSnkkVHmtIJet2qENJKvzNFAO8eEg)
 
-
-
-
-
 {% hint style="info" %}
-NOTE: You can provide feedback or general comments to students in the Feedback to Learner box. Make sure you click Submit if you’d like for students to see it.  
-****
+NOTE: You can provide feedback or general comments to students in the Feedback to Learner box. Make sure you click Submit if you’d like for students to see it.
 {% endhint %}
 
-4. After grading the forum assignment, click the Edit Grade button under the heading Forum Grade.
+![](../.gitbook/assets/emba_grade_forum%20%282%29.png)
 
-5. Enter the grade and click Save Grade.
+4. Enter the grade and click Save Grade.
 
 {% hint style="success" %}
 To learn how to view how often students have posted in forum sessions and how to provide feedback, view this [helpful video](https://drive.google.com/file/d/0B6zg2iO3hP0ET05ob3ZVd19GYk0/view).
