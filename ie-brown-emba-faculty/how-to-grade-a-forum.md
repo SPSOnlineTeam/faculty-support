@@ -8,11 +8,11 @@
 
 ![](https://lh4.googleusercontent.com/fyRZQOH6mJXuK-6bYGnLrR4JttnnjcbF9xkNCturnIPcGfW-f-1_dJuUk2Hp02JQrVA9oGnJB1PIIRu3UZi8z28TQna74uq2-vmkgzcDr349yukPSgJllLSnkkVHmtIJet2qENJKvzNFAO8eEg)
 
+3. Enter the grade and click Submit.
+
 {% hint style="info" %}
 NOTE: You can provide feedback or general comments to students in the Feedback to Learner box. Make sure you click Submit if you’d like for students to see it.
 {% endhint %}
-
-3. Enter the grade and click Submit.
 
 ![](../.gitbook/assets/emba_grade_forum%20%282%29.png)
 
