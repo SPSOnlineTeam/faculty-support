@@ -10,13 +10,13 @@ Giving feedback to students can be done in three ways.
 {% tab title="1. Feedback from assignment comments" %}
 To provide feedback through assignment comments, simply put your comments in the assignment comments field in SpeedGrader.
 
-This is located on the right-hand side of the screen. Once you have done so, a notification will be sent to the student. Students can respond to your comments as well. Please note you can also offer comments via audio or video file.
+This is located on the right-hand side of the screen. Once you have done so, a notification will be sent to the student. Students can respond to your comments as well. Please note you can also offer media comments or upload a file.
 
 {% hint style="info" %}
 TIP: Most instructors primarily provide feedback to students using this “Assignment Comments” method.
 {% endhint %}
 
-![](https://lh3.googleusercontent.com/LN00u8rWW5anxzayXzIdNrVIW87hboM-npEwdjD-wQzFv9-cao9-pOuZ4jOQ7oqPsU-SYgbzoL-Jbp85hLrt6XRXIkTtbGmltBi-KZ-Jf1TKp5lsOoa8F-wDMzQOuUmqYVO36Zbq)
+![](../../.gitbook/assets/giving_feedback_comment.png)
 {% endtab %}
 
 {% tab title="2. Filling in a grade through the gradebook" %}
