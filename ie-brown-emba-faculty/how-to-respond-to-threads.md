@@ -12,10 +12,10 @@ Identify the student post you’d like to respond to.
 
 Click on **Reply** to respond to a post.
 
-#### Address the whole class within a thread to redirect the conversation or add to it. NOTE: alternatively, you may create a new thread and close the old thread.
+#### Address the whole class within a thread to redirect the conversation or add to it. Alternatively, you may create a new thread and close the old thread.
 
 {% hint style="info" %}
-If you’d like your comment to appear in a thread but not as a response to a post, click Reply to the initial thread prompt \(usually yours, if you created the thread\).
+TIP: If you’d like your comment to appear in a thread but not as a response to a post, click **Reply** to the initial thread prompt \(usually yours, if you created the thread\).
 {% endhint %}
 
 ### Tips for Responding to Threads

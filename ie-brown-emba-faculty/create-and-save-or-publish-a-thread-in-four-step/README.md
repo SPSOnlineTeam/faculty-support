@@ -1,4 +1,4 @@
-# Create and Save or Publish a Thread in Four Step
+# Save and Publish a Discussion Thread in Four Steps
 
 1. Open the Discussion Board tab on the left navigation panel. Access the Forum. Once the Forum opens, click **Create Thread** on the action bar. This allows you to create a thread \(as pictured below\).
 
