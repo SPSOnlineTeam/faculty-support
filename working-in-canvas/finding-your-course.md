@@ -10,7 +10,7 @@ Let’s imagine you would like to see the courses “Christine’s Sandbox,” �
 
 ![](../.gitbook/assets/screen-shot-2018-04-25-at-10.50.37-am.png)
 
-To make those courses to appear on the dashboard, you must select, on the left-hand menu, “Courses,” and then click on “All Courses.”
+To make these courses to appear on the dashboard, select “Courses” from the left-hand menu and then click on “All Courses.”
 
 ![](../.gitbook/assets/finding-your-courses_all-courses.png)
 
