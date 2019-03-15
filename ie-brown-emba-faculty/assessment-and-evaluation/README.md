@@ -63,7 +63,7 @@ Use the IE Brown grading sheet as a calculator to check grade inflation before r
 
 1. Open Grade Center to assign student scores.
 2. Translate the total score into a letter grade.
-3. Use your grading sheet “calculator”, type the letter grade in the Final Grade column.
+3. Using your grading sheet “calculator”, type the letter grade in the Final Grade column.
 4. If you have grade inflation, you may adjust your grade distribution or threshold to achieve the 3.32 average or below.
 5. Update your assignment score in Grade Center and then you may “show” scores to students.  
 
