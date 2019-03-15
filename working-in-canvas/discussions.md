@@ -1,4 +1,4 @@
-# Discussions
+# Creating Discussions
 
 ### What are Canvas Discussions?
 

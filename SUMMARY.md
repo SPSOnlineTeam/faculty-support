@@ -6,7 +6,7 @@
   * [Getting Help](working-in-canvas/getting-help.md)
   * [Finding Your Course](working-in-canvas/finding-your-course.md)
   * [Communicating with Students](working-in-canvas/communications.md)
-  * [Discussions](working-in-canvas/discussions.md)
+  * [Creating Discussions](working-in-canvas/discussions.md)
   * [Grading in Canvas](working-in-canvas/grading-in-canvas.md)
   * [Reviewing Student Work and Grading](working-in-canvas/reviewing-student-work-and-grading/README.md)
     * [Giving Students Feedback](working-in-canvas/reviewing-student-work-and-grading/giving-students-feedback.md)
