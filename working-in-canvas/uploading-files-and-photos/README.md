@@ -18,7 +18,7 @@ NOTE: Use the same process for linking to websites and uploading or sharing imag
 {% tab title="Add URL" %}
 ### Adding a YouTube Link \(URL\) to a Discussion Reply
 
-1. Copy the **Share YouTube** link. \(You will need it for step 3\)
+1. **Copy** the YouTube link you'd like to share. \(You will need it for step 3\)
 2. From the discussion, click **Reply.** This will open the discussion reply editor.
 3. Click the **Insert Link** icon and paste the YouTube link you copied in the box provided.
 4. Add an **Alt text for inline preview** to make this video link accessible to all students.
