@@ -22,9 +22,9 @@ Organized Folders and Files
 
 ![](../.gitbook/assets/files_navigate.png)
 
-From the Files view \(1\), the Left Panel shows all folders in Files. Click the folders to display the contents on the Right Panel. The right panel displays the contents of the selected folder. The right panel will show the the name of the file, the date the file was created \(2\), the date the file was modified \(3\) and the name of the person who modified the file \(4\) \(if modified by another user\), and the size of the file \(5\).
+From the Files view \(1\), the Left Panel shows all folders in Files. Click the folders to display the contents on the Right Panel. The right panel displays the contents of the selected folder. The right panel will show the name of the file, the date the file was created \(2\), the date the file was modified \(3\), the name of the person who modified the file \(4\) \(if modified by another user\), and the size of the file \(5\).
 
-You can download, rename, move, and delete files. Check out the [**Canvas guides to learn about managing your files**](https://community.canvaslms.com/docs/DOC-12771-415241391).
+You can download, rename, move, and delete files. Check out the [**Canvas guides to learn about managing your files**](https://community.canvaslms.com/docs/DOC-12728-415241387).
 
 ![](https://lh6.googleusercontent.com/FZ4utTrMFquDqGpxVBHyNJGIKipNIqSrAhtJEIFss05I8C50SiSRAQR28-QJ2TaLRzOSCMNVv38WHAMZEMqbwAWwBYIsyGxJjudE0FaUIp7XnQ16U_g7X1IxEUO4PjYws50MM_Yw)
 
