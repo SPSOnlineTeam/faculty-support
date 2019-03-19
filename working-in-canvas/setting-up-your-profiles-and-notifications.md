@@ -6,7 +6,7 @@ Your Canvas profile includes your name, image, contact information, time zone, a
   
 By default, your Brown email address is your primary contact method in Canvas, but you can add other emails and a phone number for text messages. By default, the time zone for your Canvas account is ET. If you are living/working outside the ET \(Eastern Time\) time zone, you might want to change this. If you wish to change your name in Canvas, you must change it with the University in Banner. 
 
-#### Updating your profile
+#### Updating your profile picture
 
 1. Click on **Account** in the left-hand sidebar. ****![](../.gitbook/assets/discussions_account_menu.png) 
 2. From the **Settings** sub-menu click on your image/placeholder to change.  
