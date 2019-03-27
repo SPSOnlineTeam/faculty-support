@@ -1,4 +1,4 @@
-# Online Faculty Guide
+# Online Teaching Resources for Faculty
 
 {% page-ref page="working-in-canvas/" %}
 

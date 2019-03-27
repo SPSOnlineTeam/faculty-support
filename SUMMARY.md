@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Online Faculty Guide](README.md)
+* [Online Teaching Resources for Faculty](README.md)
 * [Working in Canvas](working-in-canvas/README.md)
   * [Setting Up Your Profile and Notifications](working-in-canvas/setting-up-your-profiles-and-notifications.md)
   * [Getting Help](working-in-canvas/getting-help.md)
