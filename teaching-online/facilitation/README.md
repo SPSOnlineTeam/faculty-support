@@ -40,7 +40,7 @@ Post “office hours” in the Orientation module or via an announcement so that
 The very first module in the course is particularly important. This is when you start to shape your relationship with the students, communicate expectations, and track students’ progress. This is when students start their own plans for how the course will fit into their daily routine and start learning. During the first week you should check to make sure each student has logged into the course and completed the first assignment. Take note of anyone who has not yet done either of those things and contact them to check in. 
 
 {% hint style="info" %}
-**Note:** For additional tips for the first module, see [Course Launch: The First Weeks](course-launch-the-first-weeks.md).
+**Note:** For additional tips for the first module, see [Course Launch: The First Weeks]().
 {% endhint %}
 
 ### 5. Be Visible In Your Course

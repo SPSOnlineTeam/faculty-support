@@ -1,7 +1,3 @@
----
-description: Let's dive in. Select an area to learn about below.
----
-
 # Online Faculty Guide
 
 {% page-ref page="working-in-canvas/" %}
@@ -11,4 +7,6 @@ description: Let's dive in. Select an area to learn about below.
 {% page-ref page="teaching-online/" %}
 
 {% page-ref page="online-classroom-design/" %}
+
+![](.gitbook/assets/onlinefacultyguide.jpg)
 
