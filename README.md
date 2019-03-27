@@ -1,12 +1,12 @@
 # Online Teaching Resources for Faculty
 
-{% page-ref page="working-in-canvas/" %}
+### Welcome to the Online Teaching Resources for Faculty! 
 
-{% page-ref page="ie-brown-emba-faculty/" %}
+Successful online teaching involves, but is not limited to, the following:
 
-{% page-ref page="teaching-online/" %}
+1. A robust faculty presence
+2. Something about design
+3. Something about Canvas
 
-{% page-ref page="online-classroom-design/" %}
-
-![](.gitbook/assets/onlinefacultyguide.jpg)
+Please refer to the left-hand sidebar for more information. And should you have any questions, please do not hesitate to contact your Instructional Designer.
 
