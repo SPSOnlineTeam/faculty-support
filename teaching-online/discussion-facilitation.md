@@ -41,12 +41,11 @@ TIP: [See the Creating Discussions page](https://brown-sps-online.gitbook.io/fac
 
 ### References
 
+Community of Inquiry \(n.d.\) The Community of Inquiry Website. Retrieved from [https://coi.athabascau.ca/](https://coi.athabascau.ca/)
 
+Dyar, A. \(2016\). Strategies for Facilitating Better Online Discussions. SESP Instructional Technology Resources, Northwestern Univ. Retrieved from [https://edtech.sesp.northwestern.edu/2016/02/12/strategies-for-facilitating-better-online-discussions/](https://edtech.sesp.northwestern.edu/2016/02/12/strategies-for-facilitating-better-online-discussions/)
 
 Owens, R. \(2009\). Eight Tips for Facilitating Effective Online Discussion Forums. Faculty Focus. Retrieved from [https://www.facultyfocus.com/articles/online-education/eight-tips-for-facilitating-effective-online-discussion-forums/](https://www.facultyfocus.com/articles/online-education/eight-tips-for-facilitating-effective-online-discussion-forums/)
 
-Community of Inquiry \(n.d.\) The Community of Inquiry Website. [https://coi.athabascau.ca/](https://coi.athabascau.ca/)
-
-1. Dyar, A., [“Strategies for Facilitating Better Online Discussions.”](https://edtech.sesp.northwestern.edu/2016/02/12/strategies-for-facilitating-better-online-discussions/) SESP Instructional Technology Resources, Northwestern Univ. Feb 12, 2016.
-2. Wayne, P., [“When Students Lead the Discussion.”](https://www.facultyfocus.com/articles/teaching-and-learning/when-students-lead-the-discussion/) Faculty Focus, Mar 8, 2019.
+Wayne, P. \(2019\). When Students Lead the Discussion. Faculty Focus. Retrieved from [https://www.facultyfocus.com/articles/teaching-and-learning/when-students-lead-the-discussion/](https://www.facultyfocus.com/articles/teaching-and-learning/when-students-lead-the-discussion/)
 
