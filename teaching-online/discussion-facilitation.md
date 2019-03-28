@@ -39,5 +39,12 @@ _How much to participate_
 TIP: [See the Creating Discussions page](https://brown-sps-online.gitbook.io/facultyguide/working-in-canvas/discussions) in the Working in Canvas section to understand discussion mechanics and configuration options.
 {% endhint %}
 
+### References
 
+
+
+1. Owens, R., [“Eight Tips for Facilitating Effective Online Discussion Forums.”](https://www.facultyfocus.com/articles/online-education/eight-tips-for-facilitating-effective-online-discussion-forums/) Faculty Focus, July 23, 2009.
+2. [The Community of Inquiry](https://coi.athabascau.ca/)
+3. Dyar, A., [“Strategies for Facilitating Better Online Discussions.”](https://edtech.sesp.northwestern.edu/2016/02/12/strategies-for-facilitating-better-online-discussions/) SESP Instructional Technology Resources, Northwestern Univ. Feb 12, 2016.
+4. Wayne, P., [“When Students Lead the Discussion.”](https://www.facultyfocus.com/articles/teaching-and-learning/when-students-lead-the-discussion/) Faculty Focus, Mar 8, 2019.
 
