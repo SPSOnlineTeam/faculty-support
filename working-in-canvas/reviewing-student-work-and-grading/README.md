@@ -1,8 +1,10 @@
 # Reviewing Student Work and Grading
 
+Grading is an important component of any course. But in an online course, it is one of the few ways you can provide essential feedback and guidance to students. Canvas offers more than one way of providing grades and feedback, and we cover them below.
+
 ### Finding and Viewing Student Work 
 
-In this sheet, we will address Canvas’ three options for viewing grades and grading.
+Canvas has three options for viewing grades and grading.
 
 1. Quick grading on the Grades tab
 2. “Assignments” view
@@ -10,7 +12,7 @@ In this sheet, we will address Canvas’ three options for viewing grades and gr
 
 {% tabs %}
 {% tab title="1. Quick Grading" %}
-Your Canvas gradebook will look like this:
+Your Canvas Gradebook will look like this:
 
 ![](https://lh3.googleusercontent.com/DiwPz5h3f6dEumZwuf5x10XTV4LsEmHSuxbscXBrz6z7LD2MVoA0p4qFayAlzcDx6FTkyMXyClaKAv8Qk77NEdp-Wiz7PvmIVjD8IdCIOD7pROG2xLCoXE8PDcTPFpDKamC-jq-m)
 
