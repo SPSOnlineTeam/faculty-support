@@ -1,4 +1,4 @@
-# Reviewing Student Work and Grading
+# Grading in Canvas
 
 Grading is an important component of any course. But in an online course, it is one of the few ways you can provide essential feedback and guidance to students. Canvas offers more than one way of providing grades and feedback, and we cover them below.
 
