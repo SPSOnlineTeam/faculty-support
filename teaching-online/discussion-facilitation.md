@@ -8,8 +8,7 @@ Discussions are a key component of online courses. They help build community, en
 How do you facilitate discussions in your seminars, with a light touch or something more? What influence do you exert? Do you let students maintain the momentum and intercede only to keep the discussion on track or do you participate more actively, leading the conversation and soliciting responses? Most online discussions lean toward the first model, since students are responding to a specific prompt and they’ve had time to compose thoughtful posts. This serves to keep discussions more focussed and less frequently in need of redirection.  
 
 
-**The following strategies can be successful at producing the indicated effects.**  
-
+#### **The following strategies can be successful at producing the indicated effects.** 
 
 **Carefully craft prompts.** While this is a part of design, not facilitation, open-ended, thought-provoking prompts that set expectations clearly for students will minimize the need for clarifying announcements or the chances students will take their responses in unintended and undesirable directions.  
 ****
@@ -41,11 +40,11 @@ TIP: [See the Creating Discussions page](https://brown-sps-online.gitbook.io/fac
 
 ### References
 
-Community of Inquiry \(n.d.\) The Community of Inquiry Website. Retrieved from [https://coi.athabascau.ca/](https://coi.athabascau.ca/)
+Community of Inquiry \(n.d.\) _The Community of Inquiry Website_. Retrieved from [https://coi.athabascau.ca/](https://coi.athabascau.ca/)
 
-Dyar, A. \(2016\). Strategies for Facilitating Better Online Discussions. SESP Instructional Technology Resources, Northwestern Univ. Retrieved from [https://edtech.sesp.northwestern.edu/2016/02/12/strategies-for-facilitating-better-online-discussions/](https://edtech.sesp.northwestern.edu/2016/02/12/strategies-for-facilitating-better-online-discussions/)
+Dyar, A. \(2016\). _Strategies for Facilitating Better Online Discussions_. SESP Instructional Technology Resources, Northwestern Univ. Retrieved from [https://edtech.sesp.northwestern.edu/2016/02/12/strategies-for-facilitating-better-online-discussions/](https://edtech.sesp.northwestern.edu/2016/02/12/strategies-for-facilitating-better-online-discussions/)
 
-Owens, R. \(2009\). Eight Tips for Facilitating Effective Online Discussion Forums. Faculty Focus. Retrieved from [https://www.facultyfocus.com/articles/online-education/eight-tips-for-facilitating-effective-online-discussion-forums/](https://www.facultyfocus.com/articles/online-education/eight-tips-for-facilitating-effective-online-discussion-forums/)
+Owens, R. \(2009\). _Eight Tips for Facilitating Effective Online Discussion Forums_. Faculty Focus. Retrieved from [https://www.facultyfocus.com/articles/online-education/eight-tips-for-facilitating-effective-online-discussion-forums/](https://www.facultyfocus.com/articles/online-education/eight-tips-for-facilitating-effective-online-discussion-forums/)
 
-Wayne, P. \(2019\). When Students Lead the Discussion. Faculty Focus. Retrieved from [https://www.facultyfocus.com/articles/teaching-and-learning/when-students-lead-the-discussion/](https://www.facultyfocus.com/articles/teaching-and-learning/when-students-lead-the-discussion/)
+Wayne, P. \(2019\). _When Students Lead the Discussion_. Faculty Focus. Retrieved from [https://www.facultyfocus.com/articles/teaching-and-learning/when-students-lead-the-discussion/](https://www.facultyfocus.com/articles/teaching-and-learning/when-students-lead-the-discussion/)
 
