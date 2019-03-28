@@ -44,15 +44,11 @@ Make the discussion fun by crafting a good prompt that engages students. To ensu
 {% tab title="Course 1" %}
 Please introduce yourself to our class sharing the following information: 
 
-`Where do you come from? Where are you spending the summer?` 
-
-`What kinds of things do you do in your spare time?`
-
-`What are you studying and if you have already declared, what is your concentration?`
-
-`Consider the relationship between law and literature, and please describe your own experience with the law.`
-
-`What kinds of books or movies have shaped your understanding of law? (Feel free to be specific and/or share links.)`
+* Where do you come from? Where are you spending the summer? 
+* What kinds of things do you do in your spare time?
+* What are you studying and if you have already declared, what is your concentration?
+* Consider the relationship between law and literature, and please describe your own experience with the law.
+* What kinds of books or movies have shaped your understanding of law? \(Feel free to be specific and/or share links.\)
 {% endtab %}
 
 {% tab title="Course 2" %}
