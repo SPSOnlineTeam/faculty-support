@@ -51,6 +51,12 @@ Both are acceptable but the outcome statements may have more relevance and meani
 
 In addition to stating what students should be able to do after the module or course, you could also stimulate their thinking at the outset by asking open-ended questions, whose answers flow, in effect, from realizing the stated outcomes.
 
+### **Additional Reading** 
+
+[PROFESSOR PROFILE: How to Build Student Confidence and Grit Through Backward Design, Experiential Learning](https://hbsp.harvard.edu/how-to-build-student-confidence-and-grit-through-backward-design-experiential-learning/?cid=Email%7CEloqua%7CA6+Student+Confidence+April+2019%7C241843%7CProduct+specific%7CTeaching-tips%7CArticle%7C201904301443), Harvard Business Publishing, Education.
+
+
+
 
 
   
