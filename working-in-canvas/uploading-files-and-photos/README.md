@@ -1,4 +1,4 @@
-# Adding Files to Your Online Content
+# Adding Files
 
 You can share a number of file types, including .pdf, .xls, .doc, .png, .jpg, .mov, and URLs in your content. 
 
@@ -69,7 +69,7 @@ TIP: You may also add a file as an attachment to an announcement but it is less 
 
 ### Need to add a file to Canvas? 
 
-If you have not uploaded the file to your Canvas course yet, you need to click **+ Upload a new file** to one of your folders in the Files area. To learn more, visit: [Uploading Files to Canvas](../using-your-course-files.md).
+If you have not uploaded the file to your Canvas course yet, you need to click **+ Upload a new file** to one of your folders in the Files area. To learn more, visit: [Uploading Files to Canvas](using-your-course-files.md).
 
 ![](../../.gitbook/assets/adding-files_upload-a-new-file.png)
 
