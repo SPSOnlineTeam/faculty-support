@@ -18,7 +18,7 @@ NOTE: Students must complete the orientation module before they can access the o
 
 ### Orientation Module for an Undergraduate Online Course
 
-![](../../.gitbook/assets/first-weeks_orientation.png)
+![](../../.gitbook/assets/screen-shot-2019-06-12-at-15.56.20.png)
 
 ### **Welcome Announcement** 
 
