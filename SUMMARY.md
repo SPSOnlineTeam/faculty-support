@@ -31,8 +31,8 @@
   * [Your Online "Voice"](teaching-online/your-online-voice.md)
   * [Teaching Presence](teaching-online/teaching-presence.md)
   * [Facilitation](teaching-online/facilitation/README.md)
+    * [Discussion Facilitation](teaching-online/facilitation/discussion-facilitation.md)
     * [Course Launch: The First Weeks](teaching-online/facilitation/course-launch.md)
-  * [Discussion Facilitation Strategies](teaching-online/discussion-facilitation.md)
   * [Using Announcements](teaching-online/using-announcements.md)
   * [Suggested Resources](teaching-online/suggested-resources.md)
 
