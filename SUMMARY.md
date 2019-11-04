@@ -25,6 +25,7 @@
   * [Developing Learning Outcomes](online-classroom-design/developing-learning-outcomes.md)
   * [Pedagogy](online-classroom-design/pedagogy.md)
   * [Design Principles](online-classroom-design/design-principles.md)
+  * [Discussion Design](online-classroom-design/discussion-design.md)
   * [Learning Community](online-classroom-design/learning-community.md)
 * [Teaching Online](teaching-online/README.md)
   * [Primary Responsibilities](teaching-online/your-responsibilities.md)
