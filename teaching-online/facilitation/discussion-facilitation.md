@@ -2,7 +2,7 @@
 
 ### Community of Inquiry
 
-Effective facilitation strategies support the objectives of a [community of inquiry](https://coi.athabascau.ca/): a collaborative learning experience where individuals “engage in purposeful critical discourse and reflection to construct personal meaning and confirm mutual understanding” through the application of three interdependent elements: social, cognitive, and teaching presence.  
+Effective facilitation strategies support the objectives of a [community of inquiry](https://coi.athabascau.ca/): a collaborative learning experience where individuals “engage in purposeful critical discourse and reflection to construct personal meaning and confirm mutual understanding” \(Garrison, n.d.\) through the application of three interdependent elements: social, cognitive, and teaching presence.  
 
 
 ![https://coi.athabascau.ca/coi-model/](../../.gitbook/assets/coi_model_small.bmp)
@@ -46,7 +46,10 @@ TIP: [See the Creating Discussions page](https://brown-sps-online.gitbook.io/fac
 
 ### References
 
-Community of Inquiry \(n.d.\) The Community of Inquiry Website. Retrieved from [https://coi.athabascau.ca/](https://coi.athabascau.ca/)
+Garrison, R., Cleveland-Innes, M., Vaughan, N., Community of Inquiry \(n.d.\) The Community of Inquiry Website. Retrieved from [https://coi.athabascau.ca/](https://coi.athabascau.ca/)
+
+Garrison, D. R., Anderson, T., & Archer, W. \(2000\). Critical inquiry in a text-based environment: Computer conferencing in higher education model. _The Internet and Higher Education_, 2\(2-3\), 87-105. Retrieved from  
+[http://cde.athabascau.ca/coi\_site/documents/Garrison\_Anderson\_Archer\_Critical\_Inquiry\_model.pdf](http://cde.athabascau.ca/coi_site/documents/Garrison_Anderson_Archer_Critical_Inquiry_model.pdf)
 
 Dyar, A. \(2016\). Strategies for Facilitating Better Online Discussions. SESP Instructional Technology Resources, Northwestern Univ. Retrieved from [https://edtech.sesp.northwestern.edu/2016/02/12/strategies-for-facilitating-better-online-discussions/](https://edtech.sesp.northwestern.edu/2016/02/12/strategies-for-facilitating-better-online-discussions/)
 
