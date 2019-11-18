@@ -21,6 +21,18 @@ Responses online are fewer, longer, more thoughtfully composed because students 
 
 **Provide feedback to individual posts.** Use Speedgrader to deliver assignment feedback and grading to individuals. It is addressed to, and visible to, only the intended student and can therefore be personalized. Consider how students add to the discussion and further the narrative rather than posting in parallel without a clear connection to what has come before.
 
+**Feedback tips\***  ****
+
+* provide as soon as possible after student submission
+* provide frequently, in both low- and high-stakes assignments
+* be specific and actionable
+* balance suggestions for improvement with affirmation of successes
+* use audio and/or video feedback to personalize and reduce chances of misinterpretation of text comments
+* use rubrics to make grading more efficient and make expectations clear to students
+* incorporate peer review in select assignments to reduce instructor feedback and diversify feedback
+
+   \*Partly based on Fiock, Garcia, 2019.
+
 **Summarize feedback.** Summarize your takeaways from the discussion through an announcement after the discussion closes or a page placed at the end of the module. Provide these for the benefit of all students, as opposed to individual and personalized feedback in Speedgrader. Alternatively, assign a different team each week the task of summarizing discussion takeaways. 
 
 **Participate explicitly in the discussion.** While it’s _uncommon_ for instructors to engage in online discussions directly, they might do so in specific circumstances to establish their presence, particularly in a get-to-know-each-other introductory discussion. More commonly, instructors summarize the discussion comments afterward \(see above\). Instructors, or TAs, might post in the discussion to keep student responses aligned with the scope of the prompt, provide clarifications, or perhaps connect ideas in different posts for further examination. Guiding through questions may be more effective at encouraging discussion than offering criticism, at least early in the discussion window, which may shut down some ideas.
@@ -58,6 +70,9 @@ Owens, R. \(2009\). Eight Tips for Facilitating Effective Online Discussion Foru
 Wayne, P. \(2019\). _When Students Lead the Discussion_. _Faculty Focus_. Retrieved from [https://www.facultyfocus.com/articles/teaching-and-learning/when-students-lead-the-discussion/](https://www.facultyfocus.com/articles/teaching-and-learning/when-students-lead-the-discussion/)
 
 Simon, E. \(2018\). 10 Tips for Effective Online Discussions. _Educause_. Retrieved from [https://er.educause.edu/blogs/2018/11/10-tips-for-effective-online-discussions](https://er.educause.edu/blogs/2018/11/10-tips-for-effective-online-discussions)
+
+Fiock, H., Garcia, H. \(2019\) How to Give Your Students Better Feedback with Technology. _Chronicle of Higher Education._ Retrieved from   
+[https://www.chronicle.com/interactives/20191108-Advice-Feedback?cid=wsinglestory\_hp\_1a](https://www.chronicle.com/interactives/20191108-Advice-Feedback?cid=wsinglestory_hp_1a)
 
 Dunlap, J. \(n.d.\) Down-and-dirty Guidelines for Effective Discussions in Online Courses. Retrieved from [https://www.academia.edu/3014998/Down-and-dirty\_Guidelines\_for\_Effective\_Discussions\_in\_Online\_Courses](https://www.academia.edu/3014998/Down-and-dirty_Guidelines_for_Effective_Discussions_in_Online_Courses)  
 
