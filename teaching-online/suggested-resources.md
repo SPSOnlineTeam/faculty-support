@@ -13,6 +13,7 @@
 * [Balancing Act: Managing Instructor Presence and Workload When Creating an Interactive Community of Learners](http://www.facultyfocus.com/articles/online-education/balancing-act-managing-instructor-presence-and-workload-when-creating-an-interactive-community-of-learners/), Tammy Stuart Peery and Samantha Streamer Veneruso. _Faculty Focus_, 2012.
 * [How Many Faculty Discussion Posts Each Week? A Simply Delicious Answer,](http://www.facultyfocus.com/articles/online-education/how-many-faculty-discussion-posts-each-week-a-simply-delicious-answer/) Cheryl Hayek. _Faculty Focus_, 2012.
 * [What is Flipped Instruction? Theoretical and Practical Foundations.](http://blogs.brown.edu/itg/2015/09/what-is-flipped-instruction-theoretical-and-practical-foundations/#more-1054) ITG Blog, September 23, 2015. Exactly how the lecture-based format is enhanced and extended with more active, participatory, and project-based pedagogies.
+* [Three Answer Options Are All You Need on Multiple-Choice Tests!](https://blog.cengage.com/three-answer-options-are-all-you-need-on-multiple-choice-tests/), Christine Harrington, _Cengage Blog,_ 2016. 
 
 ### Studies
 
