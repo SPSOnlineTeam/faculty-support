@@ -8,6 +8,7 @@
   * [Communicating with Students](working-in-canvas/communications.md)
   * [Creating Discussions](working-in-canvas/discussions.md)
   * [Grading in Canvas](working-in-canvas/grading-in-canvas/README.md)
+    * [Using Turnitin](working-in-canvas/grading-in-canvas/using-turnitin.md)
     * [Giving Students Feedback](working-in-canvas/grading-in-canvas/giving-students-feedback.md)
   * [Adding Files](working-in-canvas/uploading-files-and-photos/README.md)
     * [Managing Files](working-in-canvas/uploading-files-and-photos/using-your-course-files.md)
