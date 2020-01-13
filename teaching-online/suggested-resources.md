@@ -1,8 +1,13 @@
 # Suggested Resources
 
+### Websites
+
+* [Learning Roadmap for New Online Instructors.](https://ep.jhu.edu/faculty/learning-roadmap-for-new-online-instructors) Johns Hopkins. Guide to online teaching.
+* [Universal Design for Learning](http://www.cast.org/our-work/about-udl.html). CAST. "A framework to improve and optimize teaching and learning for all people based on scientific insights into how humans learn."
+
 ### **Articles**
 
-* [How to Build Student Confidence and Grit Through Backward Design, Experiential Learning](https://hbsp.harvard.edu/how-to-build-student-confidence-and-grit-through-backward-design-experiential-learning/?cid=Email%7CEloqua%7CA6+Student+Confidence+April+2019%7C241843%7CProduct+specific%7CTeaching-tips%7CArticle%7C201904301443), Harvard Business Publishing, Education, April 2019.
+* * [How to Build Student Confidence and Grit Through Backward Design, Experiential Learning](https://hbsp.harvard.edu/how-to-build-student-confidence-and-grit-through-backward-design-experiential-learning/?cid=Email%7CEloqua%7CA6+Student+Confidence+April+2019%7C241843%7CProduct+specific%7CTeaching-tips%7CArticle%7C201904301443), Harvard Business Publishing, Education, April 2019.
 * [10 Tips for Effective Online Discussions,](https://er.educause.edu/blogs/2018/11/10-tips-for-effective-online-discussions?utm_source=Informz&utm_medium=Email&utm_campaign=ER#_zstnsCg1_zlcnVM5) Edwige Simon, _Educause Review_, Nov 21, 2018.
 * [Engaging Faculty in Online Education](http://er.educause.edu/articles/2015/3/engaging-faculty-in-online-education), Karen Sibley and Ren Whitaker. _Educause Review_, March 2015. SPS's Dean and Director of Online Learning discuss keys to setting faculty up for success in online or blended courses.
 * [Being There: Establishing Instructor Presence in an Online Learning Environment](http://www.ccsenet.org/journal/index.php/hes/article/view/24246/15518), Ozgur Ekmekci. Higher Education Studies, Canadian Center of Science and Education, 2013.
