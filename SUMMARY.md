@@ -23,7 +23,6 @@
   * [How to Grade a Forum](ie-brown-emba-faculty/how-to-grade-a-forum.md)
   * [Videoconferences with WOW@Home](ie-brown-emba-faculty/videoconferences-with-wow-home.md)
 * [Online Classroom Design](online-classroom-design/README.md)
-  * [Pedagogy](online-classroom-design/pedagogy.md)
   * [Developing Learning Outcomes](online-classroom-design/developing-learning-outcomes.md)
   * [Discussion Design](online-classroom-design/discussion-design.md)
   * [Learning Community](online-classroom-design/learning-community.md)
