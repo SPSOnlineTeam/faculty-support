@@ -23,7 +23,7 @@ If you have trouble with software \(e.g. Zoom, Google Apps, Brown Blogs, your co
 {% tab title="Pre-College and Undergraduate" %}
 For questions about Summer Session, the student roster, and/or students, email program staff at [spscourses@brown.edu](mailto:spscourses@brown.edu) or call 401-863-7901.
 
-For questions about the **course content** or **facilitation** \(e.g., course material, assignment & grading configuration, access, etc.\), email [SPSonlinesupport@brown.edu](mailto:SPSonlinesupport@brown.edu). Your question will be routed to the appropriate person on the Online Learning & Innovation Team who can provide assistance.
+For questions about the **course content** or **facilitation** \(e.g., course material, assignment & grading configuration, access, etc.\), email [dld@brown.edu](mailto:dld@brown.edu). Your question will be routed to the appropriate person on the Online Learning & Innovation Team who can provide assistance.
 {% endtab %}
 
 {% tab title="Executive Programs" %}
