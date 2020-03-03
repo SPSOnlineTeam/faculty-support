@@ -35,7 +35,7 @@ Decide what the best way is for students to reach you. Is it e-mail? Through Can
 
 Post “office hours” in the Orientation module or via an announcement so that students may request an appointment. You could also host live help/Q&A sessions \(for the whole class\). These can help connect students with each other and with you, especially when planned in advance. You can use an online conference tool like [Zoom](https://brown.zoom.us/) which is one that Brown provides for free.
 
-### 4. Know the First Module is Critical
+### 4. Know What is Happening
 
 The very first module in the course is particularly important. This is when you start to shape your relationship with the students, communicate expectations, and track students’ progress. This is when students start their own plans for how the course will fit into their daily routine and start learning. During the first week you should check to make sure each student has logged into the course and completed the first assignment. Take note of anyone who has not yet done either of those things and contact them to check in. 
 
