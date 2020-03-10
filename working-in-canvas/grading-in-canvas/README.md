@@ -14,32 +14,26 @@ Canvas has three options for viewing grades and grading.
 {% tab title="1. Quick Grading" %}
 Your Canvas Gradebook will look like this:
 
-![](https://lh3.googleusercontent.com/DiwPz5h3f6dEumZwuf5x10XTV4LsEmHSuxbscXBrz6z7LD2MVoA0p4qFayAlzcDx6FTkyMXyClaKAv8Qk77NEdp-Wiz7PvmIVjD8IdCIOD7pROG2xLCoXE8PDcTPFpDKamC-jq-m)
+![Gradebook View](../../.gitbook/assets/screen-shot-2020-03-09-at-21.43.19.png)
 
 You will see many colors and symbols. For information on what those colors and symbols mean, please see [How Do I Use the Icons and Colors in Gradebook?](https://community.canvaslms.com/docs/DOC-13020-415295583)
 
-To change how information is arranged in the gradebook, simply click on the gear in the right-hand corner.
+To change how information is arranged in the Gradebook, simply select **Arrange By** under the **View** menu to configure your view. 
 
-![](https://lh3.googleusercontent.com/P5matLGe-veFOThD8ZRlmULTx5Zn4NNQyTz_3MtAZbM75_CTd9UiaOuz0z9e61TpP6mVCULaMVN0qa_WTaa1RhQOMkIQFb0S856zCZ0zCBopSUn6Cb7LJBfWY6VtNzBbSjLdG7og)
+![Gradebook Settings](../../.gitbook/assets/screen-shot-2020-03-09-at-21.46.04.png)
 
   
-You will be able to hide student names, arrange columns by due date, points, assignment groups, and other categories.
+You will be able to arrange columns by due date, points, assignment name, and modules.
 
 {% hint style="info" %}
-TIP: Instructors find the "due date" most helpful. To arrange the grade book items by due date, click the “Arrange columns by due date” option.
+TIP: Instructors find the "due date" most helpful. To arrange the grade book items by due date.
 {% endhint %}
 
 ### Finding a Resubmission 
 
-Please also keep in mind that you can find resubmissions \(which appear shaded in yellow in the gradebook\) by selecting the most recent submission \(unless you or the student has specified some other submission\).  
-  
-****This is how it appears directly from the Gradebook:  
-  
-****
+Please also keep in mind that you can find resubmissions in Speedgrader by selecting the most recent submission.
 
-![](../../.gitbook/assets/screen-shot-2018-04-25-at-1.46.48-pm.png)
-
-And this is how it appears in SpeedGrader:  
+In SpeedGrader click the drop down under **Submission to view** to see and download the most recent submission:  
 
 
 ![](https://lh3.googleusercontent.com/ASFHF-OG2YYHN8N7xdYHRkcPk2mISy7M3R8V9q1csdHN3vlPUpykxewK8Nr6gXQkVVkqBdNpApzQZHog8i9GKPbs1GIQpLACETiTFflC2CI0_DX7Z0we8FDCWn5N-StxX7sZz1MS)
