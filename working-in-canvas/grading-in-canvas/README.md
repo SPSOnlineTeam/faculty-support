@@ -58,7 +58,7 @@ Speedgrader offers a quick and friendly way for you to review the assignments an
 
 2. The view of an assignment might be little different depending on whether you’re looking at a discussion, a document or a text submission  
 
-3. Muting assignments will allow you to complete your grading without students being able to see them until you’re done.  Unmute to share them with all students simultaneously. For more information on how to mute and unmute assignments, please see the Canvas Guide: [How Do I Mute or Unmute an Assignment in the Gradebook?](https://community.canvaslms.com/docs/DOC-12961-4152724339)  and [How Do I Mute or Unmute an Assignment in SpeedGrader?](https://community.canvaslms.com/docs/DOC-12965-4152724338)
+3. Set the grade posting policy at a course level or on an assignment to hide or post grades. Setting these policies in advance of grading will allow you to complete your grading without students being able to see grades until you post them.  For more information on how to post and hide grades, please see the Hide and Post Grades knowledgebase article: [Hide and Post Grades in Canvas](https://ithelp.brown.edu/kb/articles/hide-and-post-grades-in-canvas).
 
 For more information on SpeedGrader in general, please see [How Do I Use SpeedGrader?](https://community.canvaslms.com/docs/DOC-12774-415255021)
 {% endtab %}
