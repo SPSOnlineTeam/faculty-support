@@ -10,7 +10,7 @@ Giving feedback to students can be done in three ways.
 {% tab title="1. Feedback from assignment comments" %}
 To provide feedback through assignment comments, simply put your comments in the assignment comments field in SpeedGrader.
 
-This is located on the right-hand side of the screen. Once you have done so, a notification will be sent to the student. Students can respond to your comments as well. Please note you can also offer media comments or upload a file.
+This is located on the right-hand side of the screen. Once you have done so, or posted your grades, a notification will be sent to the student. Students can respond to your comments as well. Please note you can also offer media comments or upload a file.
 
 {% hint style="info" %}
 TIP: Most instructors primarily provide feedback to students using this “Assignment Comments” method.
@@ -20,9 +20,11 @@ TIP: Most instructors primarily provide feedback to students using this “Assig
 {% endtab %}
 
 {% tab title="2. Filling in a grade through the gradebook" %}
-You can also just type in a grade \(letter, number, complete/incomplete is set in the Assignment\) via the grade book, and provide comments as well. Simply click on the small comment icon in the upper right-hand corner of each assignment block.
+You can enter a grade in percentage or points in the cell or click the grade detail tray icon to set a status for the assignment, provide comments, and enter the grade. Simply click on the cell and select the arrow icon to open the grade detail tray. 
 
-![](https://lh6.googleusercontent.com/5xA6T0IxqsbrW533lj3A0oe9htX2G3s3P_2LstewmgTNr3RDrlF-BkzaG7bgBz1q9h0ivpEx-VMxUlWS2MooosadKNg95DgrsH8A7TtBeRn4bx1LHjoSHobVh9QvF3TuLIrjpvSN)
+![Enter grade in Gradebook or open grade detail tray](../../.gitbook/assets/screen-shot-2020-03-09-at-22.12.34.png)
+
+![grade detail tray](../../.gitbook/assets/screen-shot-2020-03-09-at-22.12.43.png)
 {% endtab %}
 
 {% tab title="3. Annotating a document directly" %}
