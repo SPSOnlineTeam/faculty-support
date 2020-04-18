@@ -56,7 +56,7 @@ Speedgrader offers a quick and friendly way for you to review the assignments an
 
 
 
-2. The view of an assignment might be little different depending on whether you’re looking at a discussion, a document or a text submission  
+2. The view of an assignment might be little different depending on whether you’re looking at a discussion, a file or a text submission  
 
 3. Set the grade posting policy at a course level or on an assignment to hide or post grades. Setting these policies in advance of grading will allow you to complete your grading without students being able to see grades until you post them.  For more information on how to post and hide grades, please see the Hide and Post Grades knowledgebase article: [Hide and Post Grades in Canvas](https://ithelp.brown.edu/kb/articles/hide-and-post-grades-in-canvas).
 
